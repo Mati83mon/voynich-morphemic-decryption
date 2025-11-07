@@ -41,13 +41,13 @@ def get_analyzer() -> MorphemicAnalyzer:
     return _analyzer
 
 
-def get_validator() -> StatisticalValidator:
+def get_validator(significance_threshold: float = 0.05) -> StatisticalValidator:
     """Get or create statistical validator instance."""
-    global _validator
-    if _validator is None:
-        _validator = StatisticalValidator()
-        logger.info("Initialized StatisticalValidator")
-    return _validator
+    # Note: We create a new instance for each request to allow different thresholds
+    # This is acceptable since validation is stateless
+    validator = StatisticalValidator(significance_threshold=significance_threshold)
+    logger.info(f"Created StatisticalValidator with threshold={significance_threshold}")
+    return validator
 
 
 @router.get(
