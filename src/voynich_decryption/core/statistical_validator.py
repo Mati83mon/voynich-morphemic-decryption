@@ -83,7 +83,7 @@ class StatisticalValidator:
         Returns:
             Dictionary with chi-square validation results
         """
-        is_significant = analysis.p_value < self.significance_threshold
+        is_significant = bool(analysis.p_value < self.significance_threshold)
 
         return {
             "statistic": float(analysis.chi_square_statistic),
@@ -198,7 +198,7 @@ class StatisticalValidator:
         # Perform normality test (Shapiro-Wilk)
         try:
             shapiro_stat, shapiro_p = stats.shapiro(frequencies)
-            is_normal = shapiro_p > self.significance_threshold
+            is_normal = bool(shapiro_p > self.significance_threshold)
         except Exception as e:
             logger.warning(f"Shapiro-Wilk test failed: {e}")
             shapiro_stat, shapiro_p = None, None

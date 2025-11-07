@@ -55,7 +55,7 @@ class AnalysisResult:
         Returns:
             True if p-value is below the significance threshold
         """
-        return self.p_value < self.statistical_significance_threshold
+        return bool(self.p_value < self.statistical_significance_threshold)
 
     @property
     def verified_words_count(self) -> int:
