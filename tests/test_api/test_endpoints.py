@@ -5,7 +5,12 @@ from fastapi.testclient import TestClient
 
 from voynich_decryption.api.app import app
 
-client = TestClient(app)
+
+@pytest.fixture
+def client():
+    """Create test client fixture."""
+    with TestClient(app) as test_client:
+        yield test_client
 
 
 class TestHealthEndpoints:
