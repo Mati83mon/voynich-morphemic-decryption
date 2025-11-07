@@ -82,6 +82,7 @@ jobs:
           pip install -e .
 
       - name: Run tests with pytest
+        shell: bash
         run: |
           pytest tests/ \
             --cov=src/voynich_decryption \
