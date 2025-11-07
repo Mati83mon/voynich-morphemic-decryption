@@ -163,7 +163,7 @@ jobs:
       - name: Run integration tests
         run: |
           pytest tests/integration/ -v
-        if: hashFiles('tests/integration/*.py') != ''
+        if: hashFiles('tests/integration/test_*.py') != ''
 
   docker-build:
     name: Docker Build Test
