@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "title": "Voynich Top 100 Words - Comprehensive Analysis",
+    "analysis_date": "2025-11-07T00:25:58.175499",
+    "total_words": 100,
+    "source_file": "data/processed/voynich_top_100_vocabulary.json"
+  },
+  "preliminary_analysis": {
+    "frequency_groups": {
+      "very_high": 3,
+      "high": 5,
+      "medium": 11,
+      "low": 43,
+      "very_low": 38
+    },
+    "length_distribution": {
+      "2": 1,
+      "4": 68,
+      "5": 19,
+      "1": 9,
+      "6": 2,
+      "3": 1
+    },
+    "character_patterns": {
+      "character_frequencies": {
+        "$": 77,
+        "=": 77,
+        "o": 20,
+        "Q": 18,
+        "P": 18,
+        ">": 12,
+        "F": 12,
+        "H": 11,
+        "C": 11,
+        "I": 10,
+        "B": 10,
+        "y": 10,
+        "k": 8,
+        "l": 8,
+        "a": 6,
+        "d": 6,
+        "1": 5,
+        "e": 5,
+        "t": 5,
+        "A": 4,
+        "3": 4,
+        "4": 4,
+        "X": 4,
+        "L": 3,
+        "2": 3,
+        "M": 3,
+        "O": 3,
+        "5": 3,
+        "S": 2,
+        "T": 2,
+        "D": 2,
+        "E": 2,
+        "G": 2,
+        "J": 2,
+        "N": 2,
+        "K": 2,
+        "s": 2,
+        "r": 2,
+        "<": 1,
+        "!": 1,
+        "z": 1,
+        "b": 1,
+        "c": 1,
+        "w": 1,
+        "x": 1,
+        "Z": 1,
+        "?": 1,
+        "f": 1,
+        "v": 1,
+        "6": 1,
+        "#": 1
+      },
+      "total_unique_chars": 51,
+      "position_analysis": {
+        "first": {
+          "<": 1,
+          "$": 77,
+          "o": 14,
+          "y": 1,
+          "s": 1,
+          "?": 1,
+          "d": 1,
+          "r": 1,
+          "f": 1,
+          "l": 1,
+          "#": 1
+        },
+        "last": {
+          "!": 1,
+          "H": 3,
+          "A": 4,
+          "1": 3,
+          "B": 4,
+          ">": 12,
+          "2": 2,
+          "z": 1,
+          "a": 1,
+          "3": 2,
+          "4": 2,
+          "y": 10,
+          "b": 1,
+          "S": 2,
+          "T": 2,
+          "M": 2,
+          "c": 1,
+          "w": 1,
+          "x": 1,
+          "d": 3,
+          "C": 3,
+          "D": 2,
+          "E": 2,
+          "F": 2,
+          "G": 2,
+          "P": 2,
+          "I": 2,
+          "J": 2,
+          "L": 1,
+          "O": 2,
+          "Z": 1,
+          "N": 2,
+          "o": 1,
+          "K": 2,
+          "Q": 1,
+          "s": 2,
+          "?": 1,
+          "5": 2,
+          "r": 1,
+          "f": 1,
+          "l": 4,
+          "e": 1,
+          "v": 1,
+          "6": 1,
+          "#": 1
+        },
+        "middle": {
+          "I": 8,
+          "=": 77,
+          "L": 2,
+          "H": 8,
+          "B": 6,
+          "C": 8,
+          "1": 2,
+          "F": 10,
+          "2": 1,
+          "Q": 17,
+          "P": 16,
+          "3": 2,
+          "4": 2,
+          "X": 4,
+          "M": 1,
+          "k": 8,
+          "e": 4,
+          "o": 6,
+          "d": 3,
+          "t": 5,
+          "a": 5,
+          "l": 4,
+          "5": 1,
+          "r": 1,
+          "O": 1
+        }
+      },
+      "top_10_chars": {
+        "$": 77,
+        "=": 77,
+        "o": 20,
+        "Q": 18,
+        "P": 18,
+        ">": 12,
+        "F": 12,
+        "H": 11,
+        "C": 11,
+        "I": 10
+      }
+    }
+  },
+  "morphemic_analysis": {
+    "total_words_analyzed": 100,
+    "unique_words": 100,
+    "morphemes_identified": 157,
+    "chi_square_statistic": 2175.3282442748086,
+    "p_value": 0.0,
+    "statistically_significant": true,
+    "average_confidence": 0.0,
+    "verified_words": 0
+  },
+  "top_words": {
+    "top_10_by_frequency": [
+      {
+        "word_id": "top_001",
+        "word": "<!",
+        "frequency": 225,
+        "percentage": 1.78,
+        "length": 2,
+        "rank": 1
+      },
+      {
+        "word_id": "top_002",
+        "word": "$I=H",
+        "frequency": 129,
+        "percentage": 1.02,
+        "length": 4,
+        "rank": 2
+      },
+      {
+        "word_id": "top_003",
+        "word": "$L=A",
+        "frequency": 114,
+        "percentage": 0.9,
+        "length": 4,
+        "rank": 3
+      },
+      {
+        "word_id": "top_004",
+        "word": "$H=1",
+        "frequency": 94,
+        "percentage": 0.74,
+        "length": 4,
+        "rank": 4
+      },
+      {
+        "word_id": "top_005",
+        "word": "$B=1",
+        "frequency": 87,
+        "percentage": 0.69,
+        "length": 4,
+        "rank": 5
+      },
+      {
+        "word_id": "top_006",
+        "word": "$L=B",
+        "frequency": 82,
+        "percentage": 0.65,
+        "length": 4,
+        "rank": 6
+      },
+      {
+        "word_id": "top_007",
+        "word": "$C=1>",
+        "frequency": 77,
+        "percentage": 0.61,
+        "length": 5,
+        "rank": 7
+      },
+      {
+        "word_id": "top_008",
+        "word": "$B=2",
+        "frequency": 56,
+        "percentage": 0.44,
+        "length": 4,
+        "rank": 8
+      },
+      {
+        "word_id": "top_009",
+        "word": "$F=z",
+        "frequency": 49,
+        "percentage": 0.39,
+        "length": 4,
+        "rank": 9
+      },
+      {
+        "word_id": "top_010",
+        "word": "$H=2",
+        "frequency": 46,
+        "percentage": 0.36,
+        "length": 4,
+        "rank": 10
+      }
+    ],
+    "top_10_by_length": [
+      {
+        "word_id": "top_072",
+        "word": "okeody",
+        "frequency": 7,
+        "percentage": 0.06,
+        "length": 6,
+        "rank": 72
+      },
+      {
+        "word_id": "top_089",
+        "word": "otoldy",
+        "frequency": 5,
+        "percentage": 0.04,
+        "length": 6,
+        "rank": 89
+      },
+      {
+        "word_id": "top_007",
+        "word": "$C=1>",
+        "frequency": 77,
+        "percentage": 0.61,
+        "length": 5,
+        "rank": 7
+      },
+      {
+        "word_id": "top_011",
+        "word": "$C=2>",
+        "frequency": 44,
+        "percentage": 0.35,
+        "length": 5,
+        "rank": 11
+      },
+      {
+        "word_id": "top_020",
+        "word": "$H=1>",
+        "frequency": 19,
+        "percentage": 0.15,
+        "length": 5,
+        "rank": 20
+      },
+      {
+        "word_id": "top_026",
+        "word": "$H=3>",
+        "frequency": 18,
+        "percentage": 0.14,
+        "length": 5,
+        "rank": 26
+      },
+      {
+        "word_id": "top_041",
+        "word": "$H=4>",
+        "frequency": 14,
+        "percentage": 0.11,
+        "length": 5,
+        "rank": 41
+      },
+      {
+        "word_id": "top_053",
+        "word": "$X=M>",
+        "frequency": 12,
+        "percentage": 0.1,
+        "length": 5,
+        "rank": 53
+      },
+      {
+        "word_id": "top_070",
+        "word": "$C=4>",
+        "frequency": 8,
+        "percentage": 0.06,
+        "length": 5,
+        "rank": 70
+      },
+      {
+        "word_id": "top_077",
+        "word": "otaly",
+        "frequency": 6,
+        "percentage": 0.05,
+        "length": 5,
+        "rank": 77
+      }
+    ]
+  }
+}

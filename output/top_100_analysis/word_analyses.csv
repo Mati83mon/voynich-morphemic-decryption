@@ -1,0 +1,101 @@
+word_id,word_glyph,morpheme_count,total_frequency,confidence,average_morpheme_confidence,verification_status,potential_meaning,morphemes
+top_001,<!,2,0,0.0,0.0,unverified,,< + !
+top_064,s,1,0,0.0,0.0,unverified,,s
+top_074,$H=5,4,0,0.0,0.0,unverified,,$ + H + = + 5
+top_073,$I=T,4,0,0.0,0.0,unverified,,$ + I + = + T
+top_072,okeody,6,0,0.0,0.0,unverified,,o + k + e + o + d + y
+top_071,d,1,0,0.0,0.0,unverified,,d
+top_070,$C=4>,5,0,0.0,0.0,unverified,,$ + C + = + 4 + >
+top_069,$B=5,4,0,0.0,0.0,unverified,,$ + B + = + 5
+top_068,$Q=K,4,0,0.0,0.0,unverified,,$ + Q + = + K
+top_067,$I=A,4,0,0.0,0.0,unverified,,$ + I + = + A
+top_066,$Q=H,4,0,0.0,0.0,unverified,,$ + Q + = + H
+top_065,?,1,0,0.0,0.0,unverified,,?
+top_063,$C=1,4,0,0.0,0.0,unverified,,$ + C + = + 1
+top_002,$I=H,4,0,0.0,0.0,unverified,,$ + I + = + H
+top_062,$Q=S,4,0,0.0,0.0,unverified,,$ + Q + = + S
+top_061,$Q=Q,4,0,0.0,0.0,unverified,,$ + Q + = + Q
+top_060,$Q=I,4,0,0.0,0.0,unverified,,$ + Q + = + I
+top_059,$I=C,4,0,0.0,0.0,unverified,,$ + I + = + C
+top_058,y,1,0,0.0,0.0,unverified,,y
+top_057,$P=K,4,0,0.0,0.0,unverified,,$ + P + = + K
+top_056,o,1,0,0.0,0.0,unverified,,o
+top_055,$P=N,4,0,0.0,0.0,unverified,,$ + P + = + N
+top_054,$Q=O,4,0,0.0,0.0,unverified,,$ + Q + = + O
+top_053,$X=M>,5,0,0.0,0.0,unverified,,$ + X + = + M + >
+top_075,r,1,0,0.0,0.0,unverified,,r
+top_076,$Q=J,4,0,0.0,0.0,unverified,,$ + Q + = + J
+top_077,otaly,5,0,0.0,0.0,unverified,,o + t + a + l + y
+top_078,$Q=N,4,0,0.0,0.0,unverified,,$ + Q + = + N
+top_099,#,1,0,0.0,0.0,unverified,,#
+top_098,$B=6,4,0,0.0,0.0,unverified,,$ + B + = + 6
+top_097,$F=v,4,0,0.0,0.0,unverified,,$ + F + = + v
+top_096,$F=e,4,0,0.0,0.0,unverified,,$ + F + = + e
+top_095,okol,4,0,0.0,0.0,unverified,,o + k + o + l
+top_094,okeos,5,0,0.0,0.0,unverified,,o + k + e + o + s
+top_093,okary,5,0,0.0,0.0,unverified,,o + k + a + r + y
+top_092,otoly,5,0,0.0,0.0,unverified,,o + t + o + l + y
+top_091,otal,4,0,0.0,0.0,unverified,,o + t + a + l
+top_090,okeod,5,0,0.0,0.0,unverified,,o + k + e + o + d
+top_089,otoldy,6,0,0.0,0.0,unverified,,o + t + o + l + d + y
+top_088,otedy,5,0,0.0,0.0,unverified,,o + t + e + d + y
+top_087,oky,3,0,0.0,0.0,unverified,,o + k + y
+top_086,okaly,5,0,0.0,0.0,unverified,,o + k + a + l + y
+top_085,okal,4,0,0.0,0.0,unverified,,o + k + a + l
+top_084,l,1,0,0.0,0.0,unverified,,l
+top_083,f,1,0,0.0,0.0,unverified,,f
+top_082,$X=C>,5,0,0.0,0.0,unverified,,$ + X + = + C + >
+top_081,$C=X>,5,0,0.0,0.0,unverified,,$ + C + = + X + >
+top_080,$C=5>,5,0,0.0,0.0,unverified,,$ + C + = + 5 + >
+top_079,$C=3>,5,0,0.0,0.0,unverified,,$ + C + = + 3 + >
+top_052,$H=4,4,0,0.0,0.0,unverified,,$ + H + = + 4
+top_051,$I=Z,4,0,0.0,0.0,unverified,,$ + I + = + Z
+top_050,$P=P,4,0,0.0,0.0,unverified,,$ + P + = + P
+top_025,$F=x,4,0,0.0,0.0,unverified,,$ + F + = + x
+top_023,$F=c,4,0,0.0,0.0,unverified,,$ + F + = + c
+top_022,$P=B,4,0,0.0,0.0,unverified,,$ + P + = + B
+top_021,$I=B,4,0,0.0,0.0,unverified,,$ + I + = + B
+top_020,$H=1>,5,0,0.0,0.0,unverified,,$ + H + = + 1 + >
+top_019,$Q=M,4,0,0.0,0.0,unverified,,$ + Q + = + M
+top_018,$Q=T,4,0,0.0,0.0,unverified,,$ + Q + = + T
+top_017,$I=S,4,0,0.0,0.0,unverified,,$ + I + = + S
+top_016,$F=b,4,0,0.0,0.0,unverified,,$ + F + = + b
+top_015,$F=y,4,0,0.0,0.0,unverified,,$ + F + = + y
+top_014,$B=4,4,0,0.0,0.0,unverified,,$ + B + = + 4
+top_013,$B=3,4,0,0.0,0.0,unverified,,$ + B + = + 3
+top_012,$F=a,4,0,0.0,0.0,unverified,,$ + F + = + a
+top_011,$C=2>,5,0,0.0,0.0,unverified,,$ + C + = + 2 + >
+top_010,$H=2,4,0,0.0,0.0,unverified,,$ + H + = + 2
+top_009,$F=z,4,0,0.0,0.0,unverified,,$ + F + = + z
+top_008,$B=2,4,0,0.0,0.0,unverified,,$ + B + = + 2
+top_007,$C=1>,5,0,0.0,0.0,unverified,,$ + C + = + 1 + >
+top_006,$L=B,4,0,0.0,0.0,unverified,,$ + L + = + B
+top_005,$B=1,4,0,0.0,0.0,unverified,,$ + B + = + 1
+top_004,$H=1,4,0,0.0,0.0,unverified,,$ + H + = + 1
+top_003,$L=A,4,0,0.0,0.0,unverified,,$ + L + = + A
+top_024,$F=w,4,0,0.0,0.0,unverified,,$ + F + = + w
+top_026,$H=3>,5,0,0.0,0.0,unverified,,$ + H + = + 3 + >
+top_049,$P=O,4,0,0.0,0.0,unverified,,$ + P + = + O
+top_027,$Q=A,4,0,0.0,0.0,unverified,,$ + Q + = + A
+top_048,$P=M,4,0,0.0,0.0,unverified,,$ + P + = + M
+top_047,$P=G,4,0,0.0,0.0,unverified,,$ + P + = + G
+top_046,$P=L,4,0,0.0,0.0,unverified,,$ + P + = + L
+top_045,$P=J,4,0,0.0,0.0,unverified,,$ + P + = + J
+top_044,$P=I,4,0,0.0,0.0,unverified,,$ + P + = + I
+top_043,$P=H,4,0,0.0,0.0,unverified,,$ + P + = + H
+top_042,$H=3,4,0,0.0,0.0,unverified,,$ + H + = + 3
+top_041,$H=4>,5,0,0.0,0.0,unverified,,$ + H + = + 4 + >
+top_040,$Q=B,4,0,0.0,0.0,unverified,,$ + Q + = + B
+top_039,$P=F,4,0,0.0,0.0,unverified,,$ + P + = + F
+top_038,$P=E,4,0,0.0,0.0,unverified,,$ + P + = + E
+top_037,$P=D,4,0,0.0,0.0,unverified,,$ + P + = + D
+top_036,$P=C,4,0,0.0,0.0,unverified,,$ + P + = + C
+top_035,$I=P,4,0,0.0,0.0,unverified,,$ + I + = + P
+top_034,$Q=G,4,0,0.0,0.0,unverified,,$ + Q + = + G
+top_033,$Q=F,4,0,0.0,0.0,unverified,,$ + Q + = + F
+top_032,$Q=E,4,0,0.0,0.0,unverified,,$ + Q + = + E
+top_031,$Q=D,4,0,0.0,0.0,unverified,,$ + Q + = + D
+top_030,$Q=C,4,0,0.0,0.0,unverified,,$ + Q + = + C
+top_029,$F=d,4,0,0.0,0.0,unverified,,$ + F + = + d
+top_028,$P=A,4,0,0.0,0.0,unverified,,$ + P + = + A
+top_100,$X=O>,5,0,0.0,0.0,unverified,,$ + X + = + O + >

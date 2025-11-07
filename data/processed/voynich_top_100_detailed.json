@@ -1,0 +1,810 @@
+{
+  "metadata": {
+    "source": "Voynich Manuscript",
+    "description": "Top 100 most frequent words",
+    "total_words": 100,
+    "format_version": "1.0"
+  },
+  "words": [
+    {
+      "word_id": "top_001",
+      "word": "<!",
+      "frequency": 225,
+      "percentage": 1.78,
+      "length": 2,
+      "rank": 1
+    },
+    {
+      "word_id": "top_002",
+      "word": "$I=H",
+      "frequency": 129,
+      "percentage": 1.02,
+      "length": 4,
+      "rank": 2
+    },
+    {
+      "word_id": "top_003",
+      "word": "$L=A",
+      "frequency": 114,
+      "percentage": 0.9,
+      "length": 4,
+      "rank": 3
+    },
+    {
+      "word_id": "top_004",
+      "word": "$H=1",
+      "frequency": 94,
+      "percentage": 0.74,
+      "length": 4,
+      "rank": 4
+    },
+    {
+      "word_id": "top_005",
+      "word": "$B=1",
+      "frequency": 87,
+      "percentage": 0.69,
+      "length": 4,
+      "rank": 5
+    },
+    {
+      "word_id": "top_006",
+      "word": "$L=B",
+      "frequency": 82,
+      "percentage": 0.65,
+      "length": 4,
+      "rank": 6
+    },
+    {
+      "word_id": "top_007",
+      "word": "$C=1>",
+      "frequency": 77,
+      "percentage": 0.61,
+      "length": 5,
+      "rank": 7
+    },
+    {
+      "word_id": "top_008",
+      "word": "$B=2",
+      "frequency": 56,
+      "percentage": 0.44,
+      "length": 4,
+      "rank": 8
+    },
+    {
+      "word_id": "top_009",
+      "word": "$F=z",
+      "frequency": 49,
+      "percentage": 0.39,
+      "length": 4,
+      "rank": 9
+    },
+    {
+      "word_id": "top_010",
+      "word": "$H=2",
+      "frequency": 46,
+      "percentage": 0.36,
+      "length": 4,
+      "rank": 10
+    },
+    {
+      "word_id": "top_011",
+      "word": "$C=2>",
+      "frequency": 44,
+      "percentage": 0.35,
+      "length": 5,
+      "rank": 11
+    },
+    {
+      "word_id": "top_012",
+      "word": "$F=a",
+      "frequency": 38,
+      "percentage": 0.3,
+      "length": 4,
+      "rank": 12
+    },
+    {
+      "word_id": "top_013",
+      "word": "$B=3",
+      "frequency": 36,
+      "percentage": 0.29,
+      "length": 4,
+      "rank": 13
+    },
+    {
+      "word_id": "top_014",
+      "word": "$B=4",
+      "frequency": 34,
+      "percentage": 0.27,
+      "length": 4,
+      "rank": 14
+    },
+    {
+      "word_id": "top_015",
+      "word": "$F=y",
+      "frequency": 30,
+      "percentage": 0.24,
+      "length": 4,
+      "rank": 15
+    },
+    {
+      "word_id": "top_016",
+      "word": "$F=b",
+      "frequency": 26,
+      "percentage": 0.21,
+      "length": 4,
+      "rank": 16
+    },
+    {
+      "word_id": "top_017",
+      "word": "$I=S",
+      "frequency": 25,
+      "percentage": 0.2,
+      "length": 4,
+      "rank": 17
+    },
+    {
+      "word_id": "top_018",
+      "word": "$Q=T",
+      "frequency": 23,
+      "percentage": 0.18,
+      "length": 4,
+      "rank": 18
+    },
+    {
+      "word_id": "top_019",
+      "word": "$Q=M",
+      "frequency": 20,
+      "percentage": 0.16,
+      "length": 4,
+      "rank": 19
+    },
+    {
+      "word_id": "top_020",
+      "word": "$H=1>",
+      "frequency": 19,
+      "percentage": 0.15,
+      "length": 5,
+      "rank": 20
+    },
+    {
+      "word_id": "top_021",
+      "word": "$I=B",
+      "frequency": 19,
+      "percentage": 0.15,
+      "length": 4,
+      "rank": 21
+    },
+    {
+      "word_id": "top_022",
+      "word": "$P=B",
+      "frequency": 18,
+      "percentage": 0.14,
+      "length": 4,
+      "rank": 22
+    },
+    {
+      "word_id": "top_023",
+      "word": "$F=c",
+      "frequency": 18,
+      "percentage": 0.14,
+      "length": 4,
+      "rank": 23
+    },
+    {
+      "word_id": "top_024",
+      "word": "$F=w",
+      "frequency": 18,
+      "percentage": 0.14,
+      "length": 4,
+      "rank": 24
+    },
+    {
+      "word_id": "top_025",
+      "word": "$F=x",
+      "frequency": 18,
+      "percentage": 0.14,
+      "length": 4,
+      "rank": 25
+    },
+    {
+      "word_id": "top_026",
+      "word": "$H=3>",
+      "frequency": 18,
+      "percentage": 0.14,
+      "length": 5,
+      "rank": 26
+    },
+    {
+      "word_id": "top_027",
+      "word": "$Q=A",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 27
+    },
+    {
+      "word_id": "top_028",
+      "word": "$P=A",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 28
+    },
+    {
+      "word_id": "top_029",
+      "word": "$F=d",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 29
+    },
+    {
+      "word_id": "top_030",
+      "word": "$Q=C",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 30
+    },
+    {
+      "word_id": "top_031",
+      "word": "$Q=D",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 31
+    },
+    {
+      "word_id": "top_032",
+      "word": "$Q=E",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 32
+    },
+    {
+      "word_id": "top_033",
+      "word": "$Q=F",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 33
+    },
+    {
+      "word_id": "top_034",
+      "word": "$Q=G",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 34
+    },
+    {
+      "word_id": "top_035",
+      "word": "$I=P",
+      "frequency": 16,
+      "percentage": 0.13,
+      "length": 4,
+      "rank": 35
+    },
+    {
+      "word_id": "top_036",
+      "word": "$P=C",
+      "frequency": 15,
+      "percentage": 0.12,
+      "length": 4,
+      "rank": 36
+    },
+    {
+      "word_id": "top_037",
+      "word": "$P=D",
+      "frequency": 15,
+      "percentage": 0.12,
+      "length": 4,
+      "rank": 37
+    },
+    {
+      "word_id": "top_038",
+      "word": "$P=E",
+      "frequency": 14,
+      "percentage": 0.11,
+      "length": 4,
+      "rank": 38
+    },
+    {
+      "word_id": "top_039",
+      "word": "$P=F",
+      "frequency": 14,
+      "percentage": 0.11,
+      "length": 4,
+      "rank": 39
+    },
+    {
+      "word_id": "top_040",
+      "word": "$Q=B",
+      "frequency": 14,
+      "percentage": 0.11,
+      "length": 4,
+      "rank": 40
+    },
+    {
+      "word_id": "top_041",
+      "word": "$H=4>",
+      "frequency": 14,
+      "percentage": 0.11,
+      "length": 5,
+      "rank": 41
+    },
+    {
+      "word_id": "top_042",
+      "word": "$H=3",
+      "frequency": 14,
+      "percentage": 0.11,
+      "length": 4,
+      "rank": 42
+    },
+    {
+      "word_id": "top_043",
+      "word": "$P=H",
+      "frequency": 13,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 43
+    },
+    {
+      "word_id": "top_044",
+      "word": "$P=I",
+      "frequency": 13,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 44
+    },
+    {
+      "word_id": "top_045",
+      "word": "$P=J",
+      "frequency": 13,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 45
+    },
+    {
+      "word_id": "top_046",
+      "word": "$P=L",
+      "frequency": 13,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 46
+    },
+    {
+      "word_id": "top_047",
+      "word": "$P=G",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 47
+    },
+    {
+      "word_id": "top_048",
+      "word": "$P=M",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 48
+    },
+    {
+      "word_id": "top_049",
+      "word": "$P=O",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 49
+    },
+    {
+      "word_id": "top_050",
+      "word": "$P=P",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 50
+    },
+    {
+      "word_id": "top_051",
+      "word": "$I=Z",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 51
+    },
+    {
+      "word_id": "top_052",
+      "word": "$H=4",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 52
+    },
+    {
+      "word_id": "top_053",
+      "word": "$X=M>",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 5,
+      "rank": 53
+    },
+    {
+      "word_id": "top_054",
+      "word": "$Q=O",
+      "frequency": 12,
+      "percentage": 0.1,
+      "length": 4,
+      "rank": 54
+    },
+    {
+      "word_id": "top_055",
+      "word": "$P=N",
+      "frequency": 11,
+      "percentage": 0.09,
+      "length": 4,
+      "rank": 55
+    },
+    {
+      "word_id": "top_056",
+      "word": "o",
+      "frequency": 11,
+      "percentage": 0.09,
+      "length": 1,
+      "rank": 56
+    },
+    {
+      "word_id": "top_057",
+      "word": "$P=K",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 4,
+      "rank": 57
+    },
+    {
+      "word_id": "top_058",
+      "word": "y",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 1,
+      "rank": 58
+    },
+    {
+      "word_id": "top_059",
+      "word": "$I=C",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 4,
+      "rank": 59
+    },
+    {
+      "word_id": "top_060",
+      "word": "$Q=I",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 4,
+      "rank": 60
+    },
+    {
+      "word_id": "top_061",
+      "word": "$Q=Q",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 4,
+      "rank": 61
+    },
+    {
+      "word_id": "top_062",
+      "word": "$Q=S",
+      "frequency": 10,
+      "percentage": 0.08,
+      "length": 4,
+      "rank": 62
+    },
+    {
+      "word_id": "top_063",
+      "word": "$C=1",
+      "frequency": 9,
+      "percentage": 0.07,
+      "length": 4,
+      "rank": 63
+    },
+    {
+      "word_id": "top_064",
+      "word": "s",
+      "frequency": 9,
+      "percentage": 0.07,
+      "length": 1,
+      "rank": 64
+    },
+    {
+      "word_id": "top_065",
+      "word": "?",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 1,
+      "rank": 65
+    },
+    {
+      "word_id": "top_066",
+      "word": "$Q=H",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 4,
+      "rank": 66
+    },
+    {
+      "word_id": "top_067",
+      "word": "$I=A",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 4,
+      "rank": 67
+    },
+    {
+      "word_id": "top_068",
+      "word": "$Q=K",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 4,
+      "rank": 68
+    },
+    {
+      "word_id": "top_069",
+      "word": "$B=5",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 4,
+      "rank": 69
+    },
+    {
+      "word_id": "top_070",
+      "word": "$C=4>",
+      "frequency": 8,
+      "percentage": 0.06,
+      "length": 5,
+      "rank": 70
+    },
+    {
+      "word_id": "top_071",
+      "word": "d",
+      "frequency": 7,
+      "percentage": 0.06,
+      "length": 1,
+      "rank": 71
+    },
+    {
+      "word_id": "top_072",
+      "word": "okeody",
+      "frequency": 7,
+      "percentage": 0.06,
+      "length": 6,
+      "rank": 72
+    },
+    {
+      "word_id": "top_073",
+      "word": "$I=T",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 4,
+      "rank": 73
+    },
+    {
+      "word_id": "top_074",
+      "word": "$H=5",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 4,
+      "rank": 74
+    },
+    {
+      "word_id": "top_075",
+      "word": "r",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 1,
+      "rank": 75
+    },
+    {
+      "word_id": "top_076",
+      "word": "$Q=J",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 4,
+      "rank": 76
+    },
+    {
+      "word_id": "top_077",
+      "word": "otaly",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 5,
+      "rank": 77
+    },
+    {
+      "word_id": "top_078",
+      "word": "$Q=N",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 4,
+      "rank": 78
+    },
+    {
+      "word_id": "top_079",
+      "word": "$C=3>",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 5,
+      "rank": 79
+    },
+    {
+      "word_id": "top_080",
+      "word": "$C=5>",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 5,
+      "rank": 80
+    },
+    {
+      "word_id": "top_081",
+      "word": "$C=X>",
+      "frequency": 6,
+      "percentage": 0.05,
+      "length": 5,
+      "rank": 81
+    },
+    {
+      "word_id": "top_082",
+      "word": "$X=C>",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 5,
+      "rank": 82
+    },
+    {
+      "word_id": "top_083",
+      "word": "f",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 1,
+      "rank": 83
+    },
+    {
+      "word_id": "top_084",
+      "word": "l",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 1,
+      "rank": 84
+    },
+    {
+      "word_id": "top_085",
+      "word": "okal",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 4,
+      "rank": 85
+    },
+    {
+      "word_id": "top_086",
+      "word": "okaly",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 5,
+      "rank": 86
+    },
+    {
+      "word_id": "top_087",
+      "word": "oky",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 3,
+      "rank": 87
+    },
+    {
+      "word_id": "top_088",
+      "word": "otedy",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 5,
+      "rank": 88
+    },
+    {
+      "word_id": "top_089",
+      "word": "otoldy",
+      "frequency": 5,
+      "percentage": 0.04,
+      "length": 6,
+      "rank": 89
+    },
+    {
+      "word_id": "top_090",
+      "word": "okeod",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 5,
+      "rank": 90
+    },
+    {
+      "word_id": "top_091",
+      "word": "otal",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 4,
+      "rank": 91
+    },
+    {
+      "word_id": "top_092",
+      "word": "otoly",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 5,
+      "rank": 92
+    },
+    {
+      "word_id": "top_093",
+      "word": "okary",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 5,
+      "rank": 93
+    },
+    {
+      "word_id": "top_094",
+      "word": "okeos",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 5,
+      "rank": 94
+    },
+    {
+      "word_id": "top_095",
+      "word": "okol",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 4,
+      "rank": 95
+    },
+    {
+      "word_id": "top_096",
+      "word": "$F=e",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 4,
+      "rank": 96
+    },
+    {
+      "word_id": "top_097",
+      "word": "$F=v",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 4,
+      "rank": 97
+    },
+    {
+      "word_id": "top_098",
+      "word": "$B=6",
+      "frequency": 4,
+      "percentage": 0.03,
+      "length": 4,
+      "rank": 98
+    },
+    {
+      "word_id": "top_099",
+      "word": "#",
+      "frequency": 3,
+      "percentage": 0.02,
+      "length": 1,
+      "rank": 99
+    },
+    {
+      "word_id": "top_100",
+      "word": "$X=O>",
+      "frequency": 3,
+      "percentage": 0.02,
+      "length": 5,
+      "rank": 100
+    }
+  ]
+}
