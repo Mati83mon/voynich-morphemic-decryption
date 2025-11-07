@@ -16,7 +16,7 @@ def client():
 class TestHealthEndpoints:
     """Test health check endpoints."""
 
-    def test_root_endpoint(self):
+    def test_root_endpoint(self, client):
         """Test root endpoint returns health info."""
         response = client.get("/api/v1/")
 
@@ -25,7 +25,7 @@ class TestHealthEndpoints:
         assert data["status"] == "online"
         assert "version" in data
 
-    def test_health_check_endpoint(self):
+    def test_health_check_endpoint(self, client):
         """Test health check endpoint."""
         response = client.get("/api/v1/health")
 
@@ -38,7 +38,7 @@ class TestHealthEndpoints:
 class TestAnalysisEndpoints:
     """Test analysis endpoints."""
 
-    def test_analyze_vocabulary_endpoint(self):
+    def test_analyze_vocabulary_endpoint(self, client):
         """Test vocabulary analysis endpoint."""
         request_data = {
             "vocabulary": {
@@ -56,7 +56,7 @@ class TestAnalysisEndpoints:
         assert "analysis_id" in data
         assert data["total_words_analyzed"] == 3
 
-    def test_analyze_vocabulary_empty_raises_error(self):
+    def test_analyze_vocabulary_empty_raises_error(self, client):
         """Test analyzing empty vocabulary returns error."""
         request_data = {"vocabulary": {}}
 
@@ -64,7 +64,7 @@ class TestAnalysisEndpoints:
 
         assert response.status_code == 500  # Internal error for now
 
-    def test_analyze_detailed_endpoint(self):
+    def test_analyze_detailed_endpoint(self, client):
         """Test detailed analysis endpoint."""
         request_data = {
             "vocabulary": {
@@ -85,7 +85,7 @@ class TestAnalysisEndpoints:
 class TestDecompositionEndpoint:
     """Test word decomposition endpoint."""
 
-    def test_decompose_word_endpoint(self):
+    def test_decompose_word_endpoint(self, client):
         """Test word decomposition endpoint."""
         request_data = {
             "word": "qodyain",
@@ -101,7 +101,7 @@ class TestDecompositionEndpoint:
         assert data["word_id"] == "test_001"
         assert "morphemes" in data
 
-    def test_decompose_word_without_id(self):
+    def test_decompose_word_without_id(self, client):
         """Test decomposing word without providing ID."""
         request_data = {"word": "qo"}
 
@@ -116,7 +116,7 @@ class TestDecompositionEndpoint:
 class TestUtilityEndpoints:
     """Test utility endpoints."""
 
-    def test_get_statistics_endpoint(self):
+    def test_get_statistics_endpoint(self, client):
         """Test getting analyzer statistics."""
         response = client.get("/api/v1/statistics")
 
@@ -124,7 +124,7 @@ class TestUtilityEndpoints:
         data = response.json()
         assert isinstance(data, dict)
 
-    def test_clear_cache_endpoint(self):
+    def test_clear_cache_endpoint(self, client):
         """Test clearing analyzer cache."""
         response = client.post("/api/v1/cache/clear")
 
