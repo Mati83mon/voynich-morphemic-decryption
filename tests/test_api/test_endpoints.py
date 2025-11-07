@@ -62,7 +62,7 @@ class TestAnalysisEndpoints:
 
         response = client.post("/api/v1/analyze", json=request_data)
 
-        assert response.status_code == 500  # Internal error for now
+        assert response.status_code == 400  # Bad Request for invalid input
 
     def test_analyze_detailed_endpoint(self, client):
         """Test detailed analysis endpoint."""
