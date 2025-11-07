@@ -1,9 +1,8 @@
 """Pydantic schemas for FastAPI endpoints."""
 
 from datetime import datetime
-from typing import Optional
 
-from pydantic import BaseModel, Field, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class MorphemeSchema(BaseModel):
@@ -16,12 +15,8 @@ class MorphemeSchema(BaseModel):
     type: str = Field(..., description="Morpheme type (root, prefix, suffix, etc.)")
     frequency: int = Field(0, ge=0, description="Occurrence frequency")
     confidence: float = Field(0.0, ge=0.0, le=1.0, description="Confidence score")
-    botanical_reference: Optional[str] = Field(
-        None, description="Botanical context reference"
-    )
-    pharmaceutical_use: Optional[str] = Field(
-        None, description="Pharmaceutical context"
-    )
+    botanical_reference: str | None = Field(None, description="Botanical context reference")
+    pharmaceutical_use: str | None = Field(None, description="Pharmaceutical context")
 
 
 class WordAnalysisSchema(BaseModel):
@@ -33,9 +28,7 @@ class WordAnalysisSchema(BaseModel):
     word_glyph: str = Field(..., description="The word glyph/text")
     morpheme_count: int = Field(0, ge=0, description="Number of morphemes")
     confidence: float = Field(0.0, ge=0.0, le=1.0, description="Overall confidence")
-    verification_status: str = Field(
-        "unverified", description="Verification status"
-    )
+    verification_status: str = Field("unverified", description="Verification status")
     morphemes: list[MorphemeSchema] = Field(
         default_factory=list, description="List of identified morphemes"
     )
@@ -47,7 +40,7 @@ class AnalysisRequest(BaseModel):
     vocabulary: dict[str, str] = Field(
         ..., description="Dictionary of word_id -> word_glyph to analyze"
     )
-    morpheme_inventory: Optional[dict[str, dict]] = Field(
+    morpheme_inventory: dict[str, dict] | None = Field(
         None, description="Optional predefined morpheme inventory"
     )
     significance_threshold: float = Field(
@@ -66,9 +59,7 @@ class AnalysisResponse(BaseModel):
     success: bool = Field(..., description="Whether analysis succeeded")
     message: str = Field(..., description="Status message")
     analysis_id: str = Field(..., description="Unique analysis identifier")
-    timestamp: datetime = Field(
-        default_factory=datetime.now, description="Analysis timestamp"
-    )
+    timestamp: datetime = Field(default_factory=datetime.now, description="Analysis timestamp")
     total_words_analyzed: int = Field(0, ge=0, description="Total words analyzed")
     total_unique_words: int = Field(0, ge=0, description="Unique word count")
     morphemes_identified: int = Field(0, ge=0, description="Morphemes identified")
@@ -77,9 +68,7 @@ class AnalysisResponse(BaseModel):
     statistically_significant: bool = Field(
         False, description="Whether results are statistically significant"
     )
-    average_confidence: float = Field(
-        0.0, ge=0.0, le=1.0, description="Average word confidence"
-    )
+    average_confidence: float = Field(0.0, ge=0.0, le=1.0, description="Average word confidence")
 
 
 class AnalysisDetailResponse(AnalysisResponse):
@@ -91,16 +80,14 @@ class AnalysisDetailResponse(AnalysisResponse):
     word_analyses: list[WordAnalysisSchema] = Field(
         default_factory=list, description="All word analysis results"
     )
-    validation_results: Optional[dict] = Field(
-        None, description="Statistical validation results"
-    )
+    validation_results: dict | None = Field(None, description="Statistical validation results")
 
 
 class WordDecompositionRequest(BaseModel):
     """Schema for single word decomposition request."""
 
     word: str = Field(..., min_length=1, description="Word to decompose")
-    word_id: Optional[str] = Field(None, description="Optional word identifier")
+    word_id: str | None = Field(None, description="Optional word identifier")
 
 
 class WordDecompositionResponse(BaseModel):
@@ -121,9 +108,7 @@ class HealthResponse(BaseModel):
 
     status: str = Field(..., description="Service status")
     version: str = Field(..., description="API version")
-    timestamp: datetime = Field(
-        default_factory=datetime.now, description="Response timestamp"
-    )
+    timestamp: datetime = Field(default_factory=datetime.now, description="Response timestamp")
 
 
 class ErrorResponse(BaseModel):
@@ -131,7 +116,5 @@ class ErrorResponse(BaseModel):
 
     error: bool = Field(True, description="Error flag")
     message: str = Field(..., description="Error message")
-    detail: Optional[str] = Field(None, description="Detailed error information")
-    timestamp: datetime = Field(
-        default_factory=datetime.now, description="Error timestamp"
-    )
+    detail: str | None = Field(None, description="Detailed error information")
+    timestamp: datetime = Field(default_factory=datetime.now, description="Error timestamp")

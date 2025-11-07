@@ -3,7 +3,6 @@
 import json
 import logging
 from pathlib import Path
-from typing import Optional
 
 import numpy as np
 from scipy.stats import chi2
@@ -33,7 +32,7 @@ class MorphemicAnalyzer:
 
     def __init__(
         self,
-        vocabulary_file: Optional[str] = None,
+        vocabulary_file: str | None = None,
         verbose: bool = True,
     ) -> None:
         """
@@ -69,7 +68,7 @@ class MorphemicAnalyzer:
             if not vocab_path.exists():
                 raise FileNotFoundError(f"Vocabulary file not found: {filepath}")
 
-            with open(vocab_path, "r", encoding="utf-8") as f:
+            with open(vocab_path, encoding="utf-8") as f:
                 vocab_data = json.load(f)
 
             if not isinstance(vocab_data, dict):
@@ -98,9 +97,7 @@ class MorphemicAnalyzer:
                     continue
 
             if self.verbose:
-                logger.info(
-                    f"Loaded {len(self.morpheme_inventory)} morphemes from {filepath}"
-                )
+                logger.info(f"Loaded {len(self.morpheme_inventory)} morphemes from {filepath}")
 
         except json.JSONDecodeError as e:
             logger.error(f"Invalid JSON in vocabulary file: {e}")
@@ -120,9 +117,7 @@ class MorphemicAnalyzer:
             ValueError: If morpheme with same ID already exists
         """
         if morpheme.morpheme_id in self.morpheme_inventory:
-            raise ValueError(
-                f"Morpheme with ID '{morpheme.morpheme_id}' already exists"
-            )
+            raise ValueError(f"Morpheme with ID '{morpheme.morpheme_id}' already exists")
         self.morpheme_inventory[morpheme.morpheme_id] = morpheme
         logger.debug(f"Added morpheme: {morpheme.morpheme_id}")
 
@@ -157,11 +152,7 @@ class MorphemicAnalyzer:
 
         # Calculate statistics
         total_frequency = sum(m.frequency for m in morphemes)
-        confidence = (
-            float(np.mean([m.confidence_score for m in morphemes]))
-            if morphemes
-            else 0.0
-        )
+        confidence = float(np.mean([m.confidence_score for m in morphemes])) if morphemes else 0.0
 
         analysis = WordAnalysis(
             word_glyph=word_glyph,
@@ -233,9 +224,7 @@ class MorphemicAnalyzer:
 
         return morphemes
 
-    def analyze_vocabulary(
-        self, vocabulary: dict[str, str]
-    ) -> AnalysisResult:
+    def analyze_vocabulary(self, vocabulary: dict[str, str]) -> AnalysisResult:
         """
         Perform complete morphemic analysis on vocabulary.
 
@@ -283,15 +272,11 @@ class MorphemicAnalyzer:
 
         if self.verbose:
             logger.info(f"Analysis complete: χ² = {chi_square:.4f}, p = {p_value:.6f}")
-            logger.info(
-                f"Statistical significance: {result.is_statistically_significant}"
-            )
+            logger.info(f"Statistical significance: {result.is_statistically_significant}")
 
         return result
 
-    def _perform_chi_square_test(
-        self, word_analyses: list[WordAnalysis]
-    ) -> tuple[float, float]:
+    def _perform_chi_square_test(self, word_analyses: list[WordAnalysis]) -> tuple[float, float]:
         """
         Perform chi-square test for non-random morpheme distribution.
 
@@ -326,9 +311,7 @@ class MorphemicAnalyzer:
         expected_freq = total / len(morpheme_frequencies)
 
         # Chi-square calculation: Σ((O - E)² / E)
-        chi_square_stat = float(
-            np.sum((observed_frequencies - expected_freq) ** 2 / expected_freq)
-        )
+        chi_square_stat = float(np.sum((observed_frequencies - expected_freq) ** 2 / expected_freq))
 
         # Degrees of freedom
         df = len(morpheme_frequencies) - 1
@@ -339,9 +322,7 @@ class MorphemicAnalyzer:
         else:
             p_value = 1.0
 
-        logger.debug(
-            f"Chi-square test: χ² = {chi_square_stat:.4f}, df = {df}, p = {p_value:.6f}"
-        )
+        logger.debug(f"Chi-square test: χ² = {chi_square_stat:.4f}, df = {df}, p = {p_value:.6f}")
 
         return chi_square_stat, p_value
 
@@ -362,8 +343,7 @@ class MorphemicAnalyzer:
             "cached_word_analyses": len(self.word_cache),
             "morpheme_types": {
                 mtype.value: sum(
-                    1 for m in self.morpheme_inventory.values()
-                    if m.morpheme_type == mtype
+                    1 for m in self.morpheme_inventory.values() if m.morpheme_type == mtype
                 )
                 for mtype in MorphemeType
             },

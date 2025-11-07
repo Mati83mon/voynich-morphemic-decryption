@@ -2,7 +2,6 @@
 
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Optional
 
 
 class MorphemeType(Enum):
@@ -41,9 +40,9 @@ class Morpheme:
     frequency: int = 0
     confidence_score: float = 0.0
     related_morphemes: list[str] = field(default_factory=list)
-    botanical_reference: Optional[str] = None
-    pharmaceutical_use: Optional[str] = None
-    historical_notes: Optional[str] = None
+    botanical_reference: str | None = None
+    pharmaceutical_use: str | None = None
+    historical_notes: str | None = None
 
     def __post_init__(self) -> None:
         """Validate morpheme data after initialization."""

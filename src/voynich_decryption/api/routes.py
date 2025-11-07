@@ -3,26 +3,24 @@
 import logging
 import uuid
 from datetime import datetime
-from typing import Optional
 
 from fastapi import APIRouter, HTTPException, status
 
 from voynich_decryption import (
     MorphemicAnalyzer,
     StatisticalValidator,
-    VoynichAnalysisPipeline,
-)
-from voynich_decryption.api.schemas import (
-    AnalysisRequest,
-    AnalysisResponse,
-    AnalysisDetailResponse,
-    WordDecompositionRequest,
-    WordDecompositionResponse,
-    HealthResponse,
-    ErrorResponse,
-    MorphemeSchema,
 )
 from voynich_decryption.__version__ import __version__
+from voynich_decryption.api.schemas import (
+    AnalysisDetailResponse,
+    AnalysisRequest,
+    AnalysisResponse,
+    ErrorResponse,
+    HealthResponse,
+    MorphemeSchema,
+    WordDecompositionRequest,
+    WordDecompositionResponse,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -30,8 +28,8 @@ logger = logging.getLogger(__name__)
 router = APIRouter()
 
 # Global analyzer instance (initialized on first use)
-_analyzer: Optional[MorphemicAnalyzer] = None
-_validator: Optional[StatisticalValidator] = None
+_analyzer: MorphemicAnalyzer | None = None
+_validator: StatisticalValidator | None = None
 
 
 def get_analyzer() -> MorphemicAnalyzer:
@@ -131,7 +129,7 @@ async def analyze_vocabulary(request: AnalysisRequest) -> AnalysisResponse:
 
         # Perform validation
         logger.info("Performing statistical validation...")
-        validation_results = validator.validate_morphemic_patterns(analysis)
+        validator.validate_morphemic_patterns(analysis)
 
         # Generate analysis ID
         analysis_id = str(uuid.uuid4())
@@ -157,13 +155,13 @@ async def analyze_vocabulary(request: AnalysisRequest) -> AnalysisResponse:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=f"Invalid request: {str(e)}",
-        )
+        ) from e
     except Exception as e:
         logger.error(f"Analysis failed: {e}", exc_info=True)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Analysis failed: {str(e)}",
-        )
+        ) from e
 
 
 @router.post(
@@ -186,9 +184,7 @@ async def analyze_vocabulary_detailed(
     Returns complete analysis results including all morphemes and word analyses.
     """
     try:
-        logger.info(
-            f"Received detailed analysis request for {len(request.vocabulary)} words"
-        )
+        logger.info(f"Received detailed analysis request for {len(request.vocabulary)} words")
 
         # Get analyzer instance
         analyzer = get_analyzer()
@@ -256,13 +252,13 @@ async def analyze_vocabulary_detailed(
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=f"Invalid request: {str(e)}",
-        )
+        ) from e
     except Exception as e:
         logger.error(f"Detailed analysis failed: {e}", exc_info=True)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Analysis failed: {str(e)}",
-        )
+        ) from e
 
 
 @router.post(
@@ -324,13 +320,13 @@ async def decompose_word(
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=f"Invalid request: {str(e)}",
-        )
+        ) from e
     except Exception as e:
         logger.error(f"Word decomposition failed: {e}", exc_info=True)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Decomposition failed: {str(e)}",
-        )
+        ) from e
 
 
 @router.get(
@@ -348,7 +344,7 @@ async def get_statistics() -> dict:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Failed to get statistics: {str(e)}",
-        )
+        ) from e
 
 
 @router.post(
@@ -367,4 +363,4 @@ async def clear_cache() -> dict:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Failed to clear cache: {str(e)}",
-        )
+        ) from e

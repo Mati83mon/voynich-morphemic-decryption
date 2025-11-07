@@ -1,7 +1,6 @@
 """Word analysis data model for Voynich manuscript."""
 
 from dataclasses import dataclass, field
-from typing import Optional
 
 from voynich_decryption.models.morpheme import Morpheme
 
@@ -30,7 +29,7 @@ class WordAnalysis:
     morphemes: list[Morpheme] = field(default_factory=list)
     total_frequency: int = 0
     statistical_significance: float = 0.0
-    potential_meaning: Optional[str] = None
+    potential_meaning: str | None = None
     confidence: float = 0.0
     verification_status: str = "unverified"
 
@@ -121,8 +120,7 @@ class WordAnalysis:
             ValueError: If required fields are missing
         """
         morphemes = [
-            Morpheme.from_dict(m) if isinstance(m, dict) else m
-            for m in data.get("morphemes", [])
+            Morpheme.from_dict(m) if isinstance(m, dict) else m for m in data.get("morphemes", [])
         ]
 
         return cls(

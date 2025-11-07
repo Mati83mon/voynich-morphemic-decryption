@@ -3,7 +3,7 @@
 import pytest
 
 from voynich_decryption.core import MorphemicAnalyzer
-from voynich_decryption.models import Morpheme, MorphemeType, AnalysisResult
+from voynich_decryption.models import AnalysisResult, Morpheme, MorphemeType
 
 
 class TestMorphemicAnalyzer:
@@ -192,9 +192,7 @@ class TestMorphemicAnalyzer:
 class TestMorphemicAnalyzerIntegration:
     """Integration tests for MorphemicAnalyzer."""
 
-    def test_full_analysis_workflow(
-        self, temp_vocabulary_file, temp_morpheme_inventory_file
-    ):
+    def test_full_analysis_workflow(self, temp_vocabulary_file, temp_morpheme_inventory_file):
         """Test complete analysis workflow."""
         analyzer = MorphemicAnalyzer(
             vocabulary_file=str(temp_morpheme_inventory_file),
@@ -203,7 +201,8 @@ class TestMorphemicAnalyzerIntegration:
 
         # Load vocabulary
         import json
-        with open(temp_vocabulary_file, "r") as f:
+
+        with open(temp_vocabulary_file) as f:
             vocabulary = json.load(f)
 
         # Perform analysis

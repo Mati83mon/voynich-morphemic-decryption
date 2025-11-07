@@ -4,7 +4,6 @@ import json
 import logging
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
 import pandas as pd
 
@@ -21,7 +20,7 @@ class ReportGenerator:
     formats including JSON, CSV, HTML, and plain text.
     """
 
-    def __init__(self, output_dir: Optional[str] = None) -> None:
+    def __init__(self, output_dir: str | None = None) -> None:
         """
         Initialize the report generator.
 
@@ -35,7 +34,7 @@ class ReportGenerator:
     def generate_json_report(
         self,
         analysis: AnalysisResult,
-        output_file: Optional[str] = None,
+        output_file: str | None = None,
     ) -> Path:
         """
         Generate comprehensive JSON report.
@@ -68,9 +67,7 @@ class ReportGenerator:
                 "statistical_results": {
                     "chi_square_statistic": float(analysis.chi_square_statistic),
                     "p_value": float(analysis.p_value),
-                    "significance_threshold": float(
-                        analysis.statistical_significance_threshold
-                    ),
+                    "significance_threshold": float(analysis.statistical_significance_threshold),
                     "statistically_significant": analysis.is_statistically_significant,
                 },
                 "summary": {
@@ -92,12 +89,12 @@ class ReportGenerator:
 
         except Exception as e:
             logger.error(f"Failed to generate JSON report: {e}")
-            raise IOError(f"Failed to generate JSON report: {e}") from e
+            raise OSError(f"Failed to generate JSON report: {e}") from e
 
     def generate_csv_report(
         self,
         analysis: AnalysisResult,
-        output_file: Optional[str] = None,
+        output_file: str | None = None,
     ) -> Path:
         """
         Generate CSV report of morpheme inventory.
@@ -121,16 +118,18 @@ class ReportGenerator:
             # Convert morpheme inventory to DataFrame
             data = []
             for morpheme_id, morpheme in analysis.morpheme_inventory.items():
-                data.append({
-                    "morpheme_id": morpheme_id,
-                    "glyph": morpheme.glyph,
-                    "type": morpheme.morpheme_type.value,
-                    "frequency": morpheme.frequency,
-                    "confidence_score": morpheme.confidence_score,
-                    "botanical_reference": morpheme.botanical_reference or "",
-                    "pharmaceutical_use": morpheme.pharmaceutical_use or "",
-                    "related_morphemes": ",".join(morpheme.related_morphemes),
-                })
+                data.append(
+                    {
+                        "morpheme_id": morpheme_id,
+                        "glyph": morpheme.glyph,
+                        "type": morpheme.morpheme_type.value,
+                        "frequency": morpheme.frequency,
+                        "confidence_score": morpheme.confidence_score,
+                        "botanical_reference": morpheme.botanical_reference or "",
+                        "pharmaceutical_use": morpheme.pharmaceutical_use or "",
+                        "related_morphemes": ",".join(morpheme.related_morphemes),
+                    }
+                )
 
             df = pd.DataFrame(data)
 
@@ -144,12 +143,12 @@ class ReportGenerator:
 
         except Exception as e:
             logger.error(f"Failed to generate CSV report: {e}")
-            raise IOError(f"Failed to generate CSV report: {e}") from e
+            raise OSError(f"Failed to generate CSV report: {e}") from e
 
     def generate_text_report(
         self,
         analysis: AnalysisResult,
-        output_file: Optional[str] = None,
+        output_file: str | None = None,
     ) -> Path:
         """
         Generate plain text summary report.
@@ -186,12 +185,12 @@ class ReportGenerator:
 
         except Exception as e:
             logger.error(f"Failed to generate text report: {e}")
-            raise IOError(f"Failed to generate text report: {e}") from e
+            raise OSError(f"Failed to generate text report: {e}") from e
 
     def generate_word_analysis_report(
         self,
         analysis: AnalysisResult,
-        output_file: Optional[str] = None,
+        output_file: str | None = None,
     ) -> Path:
         """
         Generate detailed CSV report of word analyses.
@@ -214,17 +213,19 @@ class ReportGenerator:
         try:
             data = []
             for word_analysis in analysis.word_analyses:
-                data.append({
-                    "word_id": word_analysis.word_id,
-                    "word_glyph": word_analysis.word_glyph,
-                    "morpheme_count": word_analysis.morpheme_count,
-                    "total_frequency": word_analysis.total_frequency,
-                    "confidence": word_analysis.confidence,
-                    "average_morpheme_confidence": word_analysis.average_morpheme_confidence,
-                    "verification_status": word_analysis.verification_status,
-                    "potential_meaning": word_analysis.potential_meaning or "",
-                    "morphemes": " + ".join(m.glyph for m in word_analysis.morphemes),
-                })
+                data.append(
+                    {
+                        "word_id": word_analysis.word_id,
+                        "word_glyph": word_analysis.word_glyph,
+                        "morpheme_count": word_analysis.morpheme_count,
+                        "total_frequency": word_analysis.total_frequency,
+                        "confidence": word_analysis.confidence,
+                        "average_morpheme_confidence": word_analysis.average_morpheme_confidence,
+                        "verification_status": word_analysis.verification_status,
+                        "potential_meaning": word_analysis.potential_meaning or "",
+                        "morphemes": " + ".join(m.glyph for m in word_analysis.morphemes),
+                    }
+                )
 
             df = pd.DataFrame(data)
 
@@ -238,7 +239,7 @@ class ReportGenerator:
 
         except Exception as e:
             logger.error(f"Failed to generate word analysis report: {e}")
-            raise IOError(f"Failed to generate word analysis report: {e}") from e
+            raise OSError(f"Failed to generate word analysis report: {e}") from e
 
     def generate_all_reports(self, analysis: AnalysisResult) -> dict[str, Path]:
         """
@@ -262,9 +263,7 @@ class ReportGenerator:
         logger.info(f"Generated {len(reports)} reports in {self.output_dir}")
         return reports
 
-    def _generate_top_morphemes_section(
-        self, analysis: AnalysisResult, top_n: int = 20
-    ) -> str:
+    def _generate_top_morphemes_section(self, analysis: AnalysisResult, top_n: int = 20) -> str:
         """Generate section showing top morphemes by frequency."""
         lines = [
             f"Top {top_n} Most Frequent Morphemes:",

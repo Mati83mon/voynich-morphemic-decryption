@@ -6,22 +6,21 @@ through morphemic decomposition, statistical validation, and pattern recognition
 """
 
 from voynich_decryption.__version__ import (
-    __version__,
     __author__,
     __email__,
     __license__,
+    __version__,
 )
-
 from voynich_decryption.core import MorphemicAnalyzer, StatisticalValidator
 from voynich_decryption.models import (
+    AnalysisResult,
     Morpheme,
     MorphemeType,
     WordAnalysis,
-    AnalysisResult,
 )
 from voynich_decryption.pipelines import (
-    VoynichAnalysisPipeline,
     ReportGenerator,
+    VoynichAnalysisPipeline,
 )
 
 __all__ = [

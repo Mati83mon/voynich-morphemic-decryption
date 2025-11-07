@@ -3,7 +3,6 @@
 import json
 import logging
 from pathlib import Path
-from typing import Optional
 
 from voynich_decryption.core import MorphemicAnalyzer, StatisticalValidator
 from voynich_decryption.models import AnalysisResult
@@ -26,7 +25,7 @@ class VoynichAnalysisPipeline:
         reporter: ReportGenerator instance
     """
 
-    def __init__(self, config: Optional[dict[str, any]] = None) -> None:
+    def __init__(self, config: dict[str, any] | None = None) -> None:
         """
         Initialize the analysis pipeline.
 
@@ -46,9 +45,7 @@ class VoynichAnalysisPipeline:
 
         # Initialize components
         self.analyzer = MorphemicAnalyzer(verbose=verbose)
-        self.validator = StatisticalValidator(
-            significance_threshold=significance_threshold
-        )
+        self.validator = StatisticalValidator(significance_threshold=significance_threshold)
         self.reporter = ReportGenerator(output_dir=output_dir)
 
         logger.info("VoynichAnalysisPipeline initialized successfully")
@@ -57,7 +54,7 @@ class VoynichAnalysisPipeline:
     def execute(
         self,
         vocabulary_file: str,
-        morpheme_inventory_file: Optional[str] = None,
+        morpheme_inventory_file: str | None = None,
         generate_reports: bool = True,
     ) -> AnalysisResult:
         """
@@ -102,9 +99,7 @@ class VoynichAnalysisPipeline:
         # Step 3: Perform morphemic analysis
         logger.info("Performing morphemic analysis...")
         analysis = self.analyzer.analyze_vocabulary(vocabulary)
-        logger.info(
-            f"Analysis complete: {analysis.morphemes_identified} morphemes identified"
-        )
+        logger.info(f"Analysis complete: {analysis.morphemes_identified} morphemes identified")
 
         # Step 4: Statistical validation
         logger.info("Performing statistical validation...")
@@ -122,9 +117,7 @@ class VoynichAnalysisPipeline:
             logger.info("Generating analysis reports...")
             report_paths = self.reporter.generate_all_reports(analysis)
             logger.info(f"Generated {len(report_paths)} reports")
-            analysis.metadata["report_paths"] = {
-                k: str(v) for k, v in report_paths.items()
-            }
+            analysis.metadata["report_paths"] = {k: str(v) for k, v in report_paths.items()}
 
         # Step 6: Log summary
         self._log_summary(analysis, validation_results)
@@ -157,11 +150,12 @@ class VoynichAnalysisPipeline:
         logger.info(f"Loading configuration from: {config_file}")
 
         if config_path.suffix == ".json":
-            with open(config_path, "r", encoding="utf-8") as f:
+            with open(config_path, encoding="utf-8") as f:
                 config = json.load(f)
         elif config_path.suffix in [".yaml", ".yml"]:
             import yaml
-            with open(config_path, "r", encoding="utf-8") as f:
+
+            with open(config_path, encoding="utf-8") as f:
                 config = yaml.safe_load(f)
         else:
             raise ValueError(
@@ -199,7 +193,7 @@ class VoynichAnalysisPipeline:
             raise FileNotFoundError(f"Vocabulary file not found: {filepath}")
 
         try:
-            with open(vocab_path, "r", encoding="utf-8") as f:
+            with open(vocab_path, encoding="utf-8") as f:
                 vocabulary = json.load(f)
 
             if not isinstance(vocabulary, dict):
@@ -208,9 +202,7 @@ class VoynichAnalysisPipeline:
             # Validate vocabulary format
             for word_id, word_glyph in vocabulary.items():
                 if not isinstance(word_glyph, str):
-                    logger.warning(
-                        f"Invalid word glyph for '{word_id}': {word_glyph}"
-                    )
+                    logger.warning(f"Invalid word glyph for '{word_id}': {word_glyph}")
 
             return vocabulary
 
@@ -220,9 +212,7 @@ class VoynichAnalysisPipeline:
             logger.error(f"Failed to load vocabulary: {e}")
             raise
 
-    def _log_summary(
-        self, analysis: AnalysisResult, validation_results: dict[str, any]
-    ) -> None:
+    def _log_summary(self, analysis: AnalysisResult, validation_results: dict[str, any]) -> None:
         """Log a summary of analysis results."""
         logger.info("")
         logger.info("Analysis Summary:")

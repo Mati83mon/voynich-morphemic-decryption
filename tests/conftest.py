@@ -2,12 +2,12 @@
 
 import json
 import tempfile
+from collections.abc import Generator
 from pathlib import Path
-from typing import Generator
 
 import pytest
 
-from voynich_decryption.models import Morpheme, MorphemeType, WordAnalysis, AnalysisResult
+from voynich_decryption.models import AnalysisResult, Morpheme, MorphemeType, WordAnalysis
 
 
 @pytest.fixture

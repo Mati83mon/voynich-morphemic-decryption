@@ -1,7 +1,6 @@
 """Analysis result data model for Voynich manuscript."""
 
 from dataclasses import dataclass, field
-from typing import Optional
 
 from voynich_decryption.models.morpheme import Morpheme
 from voynich_decryption.models.word_analysis import WordAnalysis
@@ -137,9 +136,7 @@ class AnalysisResult:
                 "threshold": float(self.statistical_significance_threshold),
                 "statistically_significant": self.is_statistically_significant,
             },
-            "morpheme_inventory": {
-                mid: m.to_dict() for mid, m in self.morpheme_inventory.items()
-            },
+            "morpheme_inventory": {mid: m.to_dict() for mid, m in self.morpheme_inventory.items()},
             "word_analyses": [wa.to_dict() for wa in self.word_analyses],
             "metadata": self.metadata,
         }

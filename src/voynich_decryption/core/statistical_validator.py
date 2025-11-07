@@ -1,7 +1,6 @@
 """Statistical validation engine for Voynich manuscript analysis."""
 
 import logging
-from typing import Optional
 
 import numpy as np
 from scipy import stats
@@ -37,9 +36,7 @@ class StatisticalValidator:
         self.significance_threshold = significance_threshold
         logger.debug(f"StatisticalValidator initialized with α = {significance_threshold}")
 
-    def validate_morphemic_patterns(
-        self, analysis: AnalysisResult
-    ) -> dict[str, any]:
+    def validate_morphemic_patterns(self, analysis: AnalysisResult) -> dict[str, any]:
         """
         Perform comprehensive statistical validation of morphemic patterns.
 
@@ -55,7 +52,6 @@ class StatisticalValidator:
         if not analysis.morpheme_inventory:
             logger.warning("No morphemes in inventory - using unknown morphemes from analysis")
             # Build inventory from word analyses
-            from voynich_decryption.models import Morpheme
             temp_inventory = {}
             for wa in analysis.word_analyses:
                 for m in wa.morphemes:
@@ -112,9 +108,7 @@ class StatisticalValidator:
         Returns:
             Dictionary with distribution analysis results
         """
-        frequencies = np.array(
-            [m.frequency for m in analysis.morpheme_inventory.values()]
-        )
+        frequencies = np.array([m.frequency for m in analysis.morpheme_inventory.values()])
 
         if len(frequencies) == 0:
             return {
@@ -194,9 +188,7 @@ class StatisticalValidator:
         Returns:
             Dictionary with frequency analysis results
         """
-        frequencies = np.array(
-            [m.frequency for m in analysis.morpheme_inventory.values()]
-        )
+        frequencies = np.array([m.frequency for m in analysis.morpheme_inventory.values()])
 
         if len(frequencies) < 2:
             return {
@@ -227,15 +219,15 @@ class StatisticalValidator:
             "skewness_interpretation": (
                 "Right-skewed (long tail on right)"
                 if skewness > 0.5
-                else "Left-skewed (long tail on left)"
-                if skewness < -0.5
-                else "Approximately symmetric"
+                else (
+                    "Left-skewed (long tail on left)"
+                    if skewness < -0.5
+                    else "Approximately symmetric"
+                )
             ),
             "kurtosis": kurtosis,
             "kurtosis_interpretation": (
-                "Heavy-tailed (more outliers)"
-                if kurtosis > 0
-                else "Light-tailed (fewer outliers)"
+                "Heavy-tailed (more outliers)" if kurtosis > 0 else "Light-tailed (fewer outliers)"
             ),
         }
 
@@ -249,9 +241,7 @@ class StatisticalValidator:
         Returns:
             Dictionary with diversity metrics
         """
-        frequencies = np.array(
-            [m.frequency for m in analysis.morpheme_inventory.values()]
-        )
+        frequencies = np.array([m.frequency for m in analysis.morpheme_inventory.values()])
 
         if len(frequencies) == 0:
             return {
@@ -296,7 +286,8 @@ class StatisticalValidator:
                     else "Low diversity (few morphemes dominate)"
                 ),
                 "evenness": (
-                    "Even distribution" if evenness > 0.7
+                    "Even distribution"
+                    if evenness > 0.7
                     else "Uneven distribution (some morphemes dominate)"
                 ),
             },
@@ -322,51 +313,59 @@ class StatisticalValidator:
         # Chi-square test
         if "chi_square_test" in validation_results:
             chi = validation_results["chi_square_test"]
-            lines.extend([
-                "Chi-Square Test:",
-                f"  Statistic:      {chi.get('statistic', 0):.4f}",
-                f"  P-Value:        {chi.get('p_value', 1):.6f}",
-                f"  Threshold:      {chi.get('threshold', 0.05):.3f}",
-                f"  Significant:    {'YES' if chi.get('significant', False) else 'NO'}",
-                f"  Interpretation: {chi.get('interpretation', 'N/A')}",
-                "",
-            ])
+            lines.extend(
+                [
+                    "Chi-Square Test:",
+                    f"  Statistic:      {chi.get('statistic', 0):.4f}",
+                    f"  P-Value:        {chi.get('p_value', 1):.6f}",
+                    f"  Threshold:      {chi.get('threshold', 0.05):.3f}",
+                    f"  Significant:    {'YES' if chi.get('significant', False) else 'NO'}",
+                    f"  Interpretation: {chi.get('interpretation', 'N/A')}",
+                    "",
+                ]
+            )
 
         # Distribution analysis
         if "distribution_analysis" in validation_results:
             dist = validation_results["distribution_analysis"]
-            lines.extend([
-                "Frequency Distribution:",
-                f"  Mean:      {dist.get('mean_frequency', 0):.2f}",
-                f"  Median:    {dist.get('median_frequency', 0):.2f}",
-                f"  Std Dev:   {dist.get('std_frequency', 0):.2f}",
-                f"  Min:       {dist.get('min_frequency', 0)}",
-                f"  Max:       {dist.get('max_frequency', 0)}",
-                "",
-            ])
+            lines.extend(
+                [
+                    "Frequency Distribution:",
+                    f"  Mean:      {dist.get('mean_frequency', 0):.2f}",
+                    f"  Median:    {dist.get('median_frequency', 0):.2f}",
+                    f"  Std Dev:   {dist.get('std_frequency', 0):.2f}",
+                    f"  Min:       {dist.get('min_frequency', 0)}",
+                    f"  Max:       {dist.get('max_frequency', 0)}",
+                    "",
+                ]
+            )
 
         # Confidence metrics
         if "confidence_metrics" in validation_results:
             conf = validation_results["confidence_metrics"]
-            lines.extend([
-                "Confidence Metrics:",
-                f"  Average:   {conf.get('average_confidence', 0):.2%}",
-                f"  High:      {conf.get('confidence_distribution', {}).get('high (≥0.7)', 0)} morphemes",
-                f"  Medium:    {conf.get('confidence_distribution', {}).get('medium (0.4-0.7)', 0)} morphemes",
-                f"  Low:       {conf.get('confidence_distribution', {}).get('low (<0.4)', 0)} morphemes",
-                "",
-            ])
+            lines.extend(
+                [
+                    "Confidence Metrics:",
+                    f"  Average:   {conf.get('average_confidence', 0):.2%}",
+                    f"  High:      {conf.get('confidence_distribution', {}).get('high (≥0.7)', 0)} morphemes",
+                    f"  Medium:    {conf.get('confidence_distribution', {}).get('medium (0.4-0.7)', 0)} morphemes",
+                    f"  Low:       {conf.get('confidence_distribution', {}).get('low (<0.4)', 0)} morphemes",
+                    "",
+                ]
+            )
 
         # Diversity metrics
         if "morpheme_diversity" in validation_results:
             div = validation_results["morpheme_diversity"]
-            lines.extend([
-                "Diversity Metrics:",
-                f"  Shannon Entropy: {div.get('shannon_entropy', 0):.4f}",
-                f"  Evenness:        {div.get('evenness', 0):.2%}",
-                f"  Interpretation:  {div.get('interpretation', {}).get('shannon', 'N/A')}",
-                "",
-            ])
+            lines.extend(
+                [
+                    "Diversity Metrics:",
+                    f"  Shannon Entropy: {div.get('shannon_entropy', 0):.4f}",
+                    f"  Evenness:        {div.get('evenness', 0):.2%}",
+                    f"  Interpretation:  {div.get('interpretation', {}).get('shannon', 'N/A')}",
+                    "",
+                ]
+            )
 
         lines.append("=" * 70)
 

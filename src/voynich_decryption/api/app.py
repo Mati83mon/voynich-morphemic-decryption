@@ -1,17 +1,17 @@
 """FastAPI application for Voynich Morphemic Decryption API."""
 
 import logging
+from collections.abc import AsyncGenerator
 from contextlib import asynccontextmanager
-from typing import AsyncGenerator
 
 from fastapi import FastAPI, Request, status
+from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from fastapi.exceptions import RequestValidationError
 
+from voynich_decryption.__version__ import __version__
 from voynich_decryption.api.routes import router
 from voynich_decryption.api.schemas import ErrorResponse
-from voynich_decryption.__version__ import __version__
 
 # Configure logging
 logging.basicConfig(
