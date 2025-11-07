@@ -233,7 +233,7 @@ def create_voynich_metadata() -> dict:
         ),
         "related_identifiers": [
             {
-                "identifier": "https://github.com/mati83moni/voynich-morphemic-decryption",
+                "identifier": "https://github.com/Mati83mon/voynich-morphemic-decryption",
                 "relation": "isSupplementTo",
                 "resource_type": "software",
             }
