@@ -84,12 +84,12 @@ class ZenodoPublisher:
         print(f"Created deposition: {data['id']}")
         return data
 
-    def upload_file(self, deposition_id: int, file_path: str) -> dict:
+    def upload_file(self, bucket_url: str, file_path: str) -> dict:
         """
-        Upload file to deposition.
+        Upload file to deposition using bucket API.
 
         Args:
-            deposition_id: Deposition ID
+            bucket_url: Bucket URL from deposition
             file_path: Path to file to upload
 
         Returns:
@@ -103,14 +103,14 @@ class ZenodoPublisher:
         if not file_path_obj.exists():
             raise FileNotFoundError(f"File not found: {file_path}")
 
-        url = f"{self.base_url}/deposit/depositions/{deposition_id}/files"
+        # Use bucket API (more reliable than files API)
+        url = f"{bucket_url}/{file_path_obj.name}"
 
         with open(file_path_obj, "rb") as f:
-            response = requests.post(
+            response = requests.put(
                 url,
+                data=f,
                 headers={"Authorization": f"Bearer {self.access_token}"},
-                files={"file": f},
-                data={"name": file_path_obj.name},
             )
 
         response.raise_for_status()
@@ -167,11 +167,12 @@ class ZenodoPublisher:
             print("Creating deposition...")
             deposition = self.create_deposition(metadata)
             deposition_id = deposition["id"]
+            bucket_url = deposition["links"]["bucket"]
 
-            # Step 2: Upload files
+            # Step 2: Upload files using bucket API
             print(f"Uploading {len(files)} file(s)...")
             for file_path in files:
-                self.upload_file(deposition_id, file_path)
+                self.upload_file(bucket_url, file_path)
 
             # Step 3: Publish
             print("Publishing deposition...")
