@@ -19,6 +19,7 @@ scipy = "^1.11.0"
 xgboost = "^2.0.0"
 lightgbm = "^4.1.0"
 fastapi = "^0.104.0"
+httpx = ">=0.24.0,<0.25.0"
 pydantic = "^2.4.0"
 pydantic-settings = "^2.0.0"
 uvicorn = {extras = ["standard"], version = "^0.24.0"}
