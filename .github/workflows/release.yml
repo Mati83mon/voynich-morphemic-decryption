@@ -156,6 +156,7 @@ jobs:
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
           ZENODO_SANDBOX: 'false'
+          ZENODO_AUTO_CONFIRM: 'true'
         run: |
           python scripts/deploy_zenodo.py
 

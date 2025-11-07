@@ -300,10 +300,17 @@ def main():
 
     # Confirm publication (in production mode)
     if not sandbox:
-        response = input("Publish to PRODUCTION Zenodo? This will mint a DOI. (yes/no): ")
-        if response.lower() != "yes":
-            print("Publication cancelled.")
-            sys.exit(0)
+        # Check for auto-confirm in CI/CD environments
+        auto_confirm = os.getenv("ZENODO_AUTO_CONFIRM", "false").lower() == "true"
+
+        if not auto_confirm:
+            response = input("Publish to PRODUCTION Zenodo? This will mint a DOI. (yes/no): ")
+            if response.lower() != "yes":
+                print("Publication cancelled.")
+                sys.exit(0)
+        else:
+            print("Auto-confirming publication (ZENODO_AUTO_CONFIRM=true)")
+            print("Publishing to PRODUCTION Zenodo...")
 
     # Publish
     try:
