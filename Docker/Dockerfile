@@ -49,7 +49,7 @@ COPY --from=builder /usr/local/bin /usr/local/bin
 
 # Copy application code
 COPY --chown=${APP_USER}:${APP_USER} src/ ${APP_HOME}/src/
-COPY --chown=${APP_USER}:${APP_USER} pyproject.toml setup.py setup.cfg ./
+COPY --chown=${APP_USER}:${APP_USER} pyproject.toml setup.py setup.cfg README.md VERSION ./
 
 # Install application
 RUN pip install -e .
