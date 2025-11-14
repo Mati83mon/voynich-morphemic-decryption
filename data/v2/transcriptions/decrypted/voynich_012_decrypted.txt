@@ -1,0 +1,15 @@
+VOYNICH MANUSCRIPT - PAGE 012
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with green leaves and red flowers)
+
+=== TOP TEXT ===
+
+non autem et crescit [ceod] et [ceodaag] [dland] folia
+[doelog] et et modos folia radix et [ceogoleog]
+per et [olllog] atque folia lex [dagceag] [do]
+sunt [ceod] [olllog] [dland] [geog] folia caulis [olleaglland]
+in et floret crescit folia ad et sciendum
+aut et [dagdoeg]
+
+=== END OF PAGE 012 ===

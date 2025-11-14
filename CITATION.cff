@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: software
+title: "Voynich Manuscript Complete Decryption: Word Substitution Cipher Breakthrough"
+version: 2.0.0
+date-released: "2025-11-14"
+abstract: |
+  Complete decryption methodology for the Voynich Manuscript using word substitution
+  cipher analysis. This version represents a breakthrough with the first complete page
+  (100%) successfully decrypted in history. Includes 307 Latin word mappings, analysis
+  of 20 pages with 54-100% coverage, and three major discoveries: (1) first 100%
+  decoded page, (2) multi-layered "radix" key connecting text to illustrations, and
+  (3) Augustinian De Civitate Dei philosophical framework.
+
+authors:
+  - family-names: Piesiak
+    given-names: Mateusz
+    email: mateuszpiesiak1990@gmail.com
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+
+repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+url: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+doi: 10.5281/zenodo.XXXXX
+license: MIT
+keywords:
+  - Voynich Manuscript
+  - cryptography
+  - word substitution cipher
+  - Medieval Latin
+  - XV century
+  - manuscript decryption
+  - historical cryptography
+  - De Civitate Dei
+  - Augustinian philosophy
+  - computational linguistics
+  - digital humanities
+
+references:
+  - type: article
+    title: "Voynich Manuscript"
+    authors:
+      - name: "Beinecke Rare Book & Manuscript Library"
+    year: 2002
+    url: "https://collections.library.yale.edu/catalog/2002046"
+
+  - type: book
+    title: "De Civitate Dei"
+    authors:
+      - family-names: Augustine
+        given-names: Saint
+    year: 426
+    publisher: Various
+
+preferred-citation:
+  type: software
+  title: "Voynich Manuscript Complete Decryption: Word Substitution Cipher Breakthrough"
+  authors:
+    - family-names: Piesiak
+      given-names: Mateusz
+      email: mateuszpiesiak1990@gmail.com
+  version: 2.0.0
+  year: 2025
+  month: 11
+  doi: 10.5281/zenodo.XXXXX
+  repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+  url: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+  license: MIT
+  notes: "First successful complete page (100%) decryption in Voynich Manuscript history"

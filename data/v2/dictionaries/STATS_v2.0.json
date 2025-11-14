@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "date": "2025-11-09",
+  "total_mappings": 298,
+  "pages_analyzed": 6,
+  "words_decrypted": 2549,
+  "average_coverage": "56-83%",
+  "language": "Latin (Medieval Scholastic)",
+  "cipher_type": "Word Substitution",
+  "contributors": [
+    "Mateusz",
+    "Claude (Anthropic)"
+  ]
+}

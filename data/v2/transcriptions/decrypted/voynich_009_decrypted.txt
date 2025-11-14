@@ -1,0 +1,25 @@
+VOYNICH MANUSCRIPT - PAGE 009
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with pink-green flowers)
+
+=== TOP LEFT ===
+
+[llogoeag] [olllag] et non autem esse de et aut
+ad et [ceogollog] sunt [ceandg] et et et
+atque [olloceog] amant [gollodag] sunt folia et
+crescit et [olllag] folia [olllag] pro
+
+=== MIDDLE LEFT ===
+
+folia in aliud
+et [ceolllog] non et
+sunt [olloceag] [llogdag] crescit
+et et et pro amant
+folia [cheoceog] semper [llogdag]
+o ad et [deeocog] nunc
+habere autem habere
+folia nunc [ceang]
+folia pro
+
+=== END OF PAGE 009 ===
