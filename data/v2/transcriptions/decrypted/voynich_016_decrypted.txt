@@ -1,0 +1,21 @@
+VOYNICH MANUSCRIPT - PAGE 016
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with oval green leaves)
+
+=== TOP TEXT ===
+
+[logageog] autem [lloeodag] ipsum crescit non de [lloeodod]
+[ceagog] radix folia esse [cegeag] folia crescit caulis caulis
+[ceoglodog] amant est [goag] deus ad et non [ceod] non
+[ceolllaeg] [oand] [ceodoeg] folia radix omnis et [dagll] dat
+[doeodand] habere autem [lloceag]
+
+=== MIDDLE TEXT ===
+
+[lloceog] [ceodg] [ceododand] mittunt [olllocedog] folia [ago]
+[ollloedad] et et legum post ad qui dat de
+habere o [ceogag] amant [ceogag] et autem non dat folia
+[lloag] [ollegogand] non crescit ad ad non [dogdand]
+
+=== END OF PAGE 016 ===

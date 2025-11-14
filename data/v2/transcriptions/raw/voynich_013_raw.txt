@@ -1,0 +1,39 @@
+VOYNICH MANUSCRIPT - PAGE 013
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Fern-like plant with green fronds and red tops)
+
+=== LEFT COLUMN ===
+
+daud o ceog ceogog ceog ceog ceaeag ceog ceog
+daud ceolleg ceog ceog llog cheoag cheog egol og
+doeog llodog ceollag ceog ceageag
+daud ceog cheoag ceag cheog olland
+og og ceog olland ceog olleg golloag cheoand
+ceog golland cheog olloeg ceog ceadag
+ceog ogeog godag ceog og ceogand
+o ceog cheoeg ceog cheodog
+ceogdoeg gadand ceog og dland ollaag
+geo olland olladag
+
+=== RIGHT COLUMN ===
+
+golleog ollag
+ollag olland dag
+daud ceog olladag
+daud ceog
+golland og
+odand
+
+og ceog cheoeg ceog cheolag cheoand
+gollog og olllag cheodag cheoeg og
+lloceag olleag ag ceogland gollog
+ceag og ag ceog og ceolland
+ceog llog ceolldag
+cheog ceogdag llodog
+og cedog
+ceag ceand og ceog ceand
+daud ceog geoceog goad
+ceog olland olladag
+
+=== END OF PAGE 013 ===

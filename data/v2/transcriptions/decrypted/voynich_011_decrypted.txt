@@ -1,0 +1,17 @@
+VOYNICH MANUSCRIPT - PAGE 011
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large green heart-shaped leaf)
+
+=== TOP TEXT ===
+
+[ceagd] et sunt [oand] [ogeaeag] [ceoda] ferunt
+[ceoglad] est et caulis video et [ollogeg] [olllog]
+pro [olllog] et folia [olloceag] caulis [gollegead]
+modos [cegeag] homo o et [ceogleag]
+
+[lloeg] [ceodg] [goaag] [ceodoell] et [golleaeg] folia mittunt
+et autem autem [goaeag] [dogllog] [goag] caulis [doglog] non
+per pro et in [ceodal]
+
+=== END OF PAGE 011 ===

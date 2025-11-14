@@ -1,0 +1,26 @@
+VOYNICH MANUSCRIPT - PAGE 006
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large green kidney-shaped leaf)
+
+=== TOP RIGHT ===
+
+folia et et [ollegod] nihil et
+[llogollead] ad et habere [daag] sunt
+crescit ad et et et non [ceodad]
+et [ceogo] et mittunt
+
+=== MIDDLE (near illustration) ===
+
+folia et de floret
+ad et et et deus et esse
+de [ceolleag] in magnum
+[ceolloag] et et et [doogog]
+
+=== BOTTOM LEFT ===
+
+et ad et et folia
+ad [ceolleag] amant sunt sunt folia o [lleog] homo
+et et [ceolleag]
+
+=== END OF PAGE 006 ===

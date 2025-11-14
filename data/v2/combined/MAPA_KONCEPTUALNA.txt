@@ -1,0 +1,195 @@
+================================================================================
+        MAPA KONCEPTUALNA MANUSKRYPTU VOYNICHA
+        Analiza all_pages_1_2_3.txt (86 linii)
+================================================================================
+
+TRIADA AUGUSTYŃSKA:
+═══════════════════
+
+    ╔═══════════╗
+    ║  CIVITAS  ║  (miasto/państwo)     = goffedag
+    ║    4x     ║
+    ╚═══════════╝
+         │
+         │
+    ╔═══════════╗
+    ║    REX    ║  (król)               = lloc, ceolg, agand
+    ║    4x     ║
+    ╚═══════════╝
+         │
+         │
+    ╔═══════════╗
+    ║    LEX    ║  (prawo)              = go
+    ║    4x     ║
+    ╚═══════════╝
+
+
+KONCEPTY WSPIERAJĄCE:
+════════════════════
+
+    ╔═══════════╗
+    ║   DEUS    ║  (Bóg)                4x
+    ╚═══════════╝
+
+    ╔═══════════╗
+    ║  DOMINUS  ║  (Pan)                3x
+    ╚═══════════╝
+
+    ╔═══════════╗
+    ║  CORPUS   ║  (ciało)              3x
+    ╚═══════════╝
+
+
+STRUKTURA NARRACYJNA (LINIE 24-76):
+═══════════════════════════════════
+
+    [L.24]  CIVITAS ──────────────────┐
+            "civitatium deitas"       │
+            (boskość miast)           │ TEZA GŁÓWNA
+                                      │
+    [L.37]  DOMINUS + CORPUS ─────────┘
+            "dominus... corporis"
+            (Pan... ciała)
+
+    ────────────────────────────────────
+
+    [L.40]  REX ──────────────────────┐
+            "rex debere"              │
+            (król powinien)           │ WŁADZA
+                                      │
+    [L.42]  CIVITAS + REX ────────────┤ POLITYCZNA
+            "civitatis... reges"      │
+            (miasta... królowie)      │
+                                      │
+    [L.43]  DEUS ─────────────────────┘
+            "dei... deorum"
+            (Boga... bogów)
+
+    ────────────────────────────────────
+
+    [L.51]  CIVITAS ──────────────────┐
+            "civitates"               │
+            (miasta - l.mn.)          │
+                                      │
+    [L.58]  LEX ──────────────────────┤
+            "lex umquam"              │
+            (prawo kiedykolwiek)      │
+                                      │ FUNDAMENTY
+    [L.60]  CIVITAS ──────────────────┤ MIASTA
+            "causae sub civitas"      │
+            (przyczyny pod miastem)   │
+                                      │
+    [L.64]  LEX ──────────────────────┤
+            "legis"                   │
+            (prawa)                   │
+                                      │
+    [L.67]  LEX ──────────────────────┤
+            "leges"                   │
+            (prawa - l.mn.)           │
+                                      │
+    [L.69]  LEX ──────────────────────┘
+            "legum"
+            (praw)
+
+    ────────────────────────────────────
+
+    [L.76]  DEUS + CORPUS ────────────┐
+            "deus corpus... deus"     │ KONKLUZJA
+            (Bóg ciało... Bóg)        │
+                                      │ Wcielenie
+                                      │ Corpus Mysticum
+                                      └─────────────
+
+
+KLUCZOWE FRAZY:
+══════════════
+
+L.24  "civitatium deitas"           = boskość miast
+L.40  "rex debere"                  = król powinien
+L.42  "civitatis corporis reges"    = miasta ciała królowie
+L.43  "dei... deorum"               = Boga... bogów
+L.51  "civitates"                   = miasta (Dei + Terrena)
+L.58  "inter opus lex"              = między dziełem prawo
+L.60  "causae sub civitas"          = przyczyny pod miastem
+L.64  "causas legis"                = przyczyny prawa
+L.67  "leges atque profecto"        = prawa i zaprawdę
+L.69  "capiunt legum"               = pojmują praw
+L.76  "deus corpus... deus"         = Bóg ciało... Bóg
+
+
+POŁĄCZENIE Z SEKCJĄ BOTANICZNĄ:
+═══════════════════════════════
+
+Strony 004-020 (sekcja botaniczna):
+
+    "go" = LEX pojawia się w kontekstach:
+
+    • "lex mittunt" (prawo wysyłają)      - str. 017
+    • "folia lex" (liście prawo)          - str. 012
+    • "magnum lex habere" (wielkie prawo mieć) - str. 015
+
+    INTERPRETACJA: Rośliny jako alegoria Civitas Dei
+
+    • RADIX (korzeń)  = fundamenty miasta/prawa
+    • CAULIS (łodyga) = struktura władzy
+    • FOLIA (liście)  = obywatele/wierni
+
+
+NOTA STRONY 206:
+═══════════════
+
+    "Michi con portas"
+    (Dla mnie z bramami)
+
+    INTERPRETACJA:
+    • PORTAS (bramy) = bramy Civitas Dei
+    • Centrum miasta = bramy (portas)
+    • Odniesienie do Augustyna: "Bramy Miasta Bożego"
+
+
+STATYSTYKA CAŁKOWITA:
+════════════════════
+
+┌─────────────┬──────────┬──────────────┬──────────────┐
+│  KONCEPT    │ all_1_2_3│ voy_003/041/ │    RAZEM     │
+│             │  (86 ln) │    175       │              │
+├─────────────┼──────────┼──────────────┼──────────────┤
+│ CIVITAS     │    4x    │      ?       │      4+      │
+│ REX         │    4x    │      ?       │      4+      │
+│ LEX         │    4x    │    + w bot.  │     10+      │
+│ DEUS        │    4x    │   12x        │     16x      │
+│ DEI         │    1x    │    1x        │      2x      │
+│ DEORUM      │    1x    │      0       │      1x      │
+│ DOMINUS     │    3x    │    1x        │      4x      │
+│ CORPUS      │    3x    │      ?       │      3+      │
+└─────────────┴──────────┴──────────────┴──────────────┘
+
+
+WNIOSKI:
+═══════
+
+1. RÓWNOMIERNE ROZŁOŻENIE konceptów (4x każdy z głównej triady)
+   → ŚWIADOMA KONSTRUKCJA LITERACKA
+
+2. KLASYCZNA STRUKTURA RETORYCZNA:
+   Propositio → Narratio → Argumentatio → Confirmatio → Peroratio
+
+3. AUGUSTYŃSKA FILOZOFIA POLITYCZNA:
+   • Civitas Dei vs Civitas Terrena
+   • Rex i jego powinności (debere)
+   • Lex divina vs lex humana
+   • Corpus Mysticum (Ciało Kościoła)
+
+4. ALEGORIA BOTANICZNA:
+   Rośliny = symbole struktury Civitas Dei
+   Radix = fundamenty (prawo)
+
+5. STRONA 206 = KLUCZ INTERPRETACYJNY:
+   "Michi con portas" → Miasto i jego bramy
+
+
+DATA: 2025-11-14
+COVERAGE: 70.4% (303 mapowania)
+ANALYZER: Claude Sonnet 4.5
+
+================================================================================

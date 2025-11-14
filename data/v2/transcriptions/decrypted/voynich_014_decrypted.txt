@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 014
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Star-shaped leaves with blue/green spheres)
+
+=== LEFT COLUMN ===
+
+[lloaggeag] [ceolleog] [good] et [ceoleg] o autem et crescit
+[aug] et sciendum in autem legum omnis et nunc
+ergo et floret [ceolleag] radix pro pro [dagolog]
+floret in ad o folia haec ad [olladag]
+folia radix [ceodad] ad pro aut [daggeag]
+
+[llodog] [daglllog] [ceolleag] non
+o [geog] [ceogog] folia crescit ad [doag]
+[doeog] floret [dagog] esse
+non homo et [cheoag] crescit et
+est radix et [oag] et non in
+esse o non haec o autem o dat aut
+et [cheoag] [cheoag] [cheogeag]
+habere
+[ollleogdag] autem crescit
+[gecodagllloceog] et dat
+[agog] deus folia
+[oceog] et modos
+
+=== END OF PAGE 014 ===

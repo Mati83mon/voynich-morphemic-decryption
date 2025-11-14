@@ -1,0 +1,17 @@
+VOYNICH MANUSCRIPT - PAGE 008
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (High-quality zoom of text)
+
+=== TEXT (single column) ===
+
+geag olleag ceog ceog olleag o ag
+llog llodag ceog ceolleog ollag
+llog ceog ollog golladog ceog
+ceog dand golleag geagag ceog
+ceog ceog llog ollog ceag ceog
+ceollag gollog llog ceog llag
+ceollag gollog ollag ollag
+ceag ceadllag
+
+=== END OF PAGE 008 ===

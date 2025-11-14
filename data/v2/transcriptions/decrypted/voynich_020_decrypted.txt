@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 020
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with blue flowers)
+
+=== TOP LEFT ===
+
+ens [olageod] [olgceog] folia [dagceglleag] [golag] [ceoglog] [ceogdaud]
+[dogeag] [oand] est pro est pro non sunt est non
+[ollllog] [olllog] [olllog] [goag] est pro sunt
+[olllag] [lloag] [lland] crescit aut pro semper
+
+=== TOP RIGHT ===
+
+crescit [olloocag] aut [olllag] [golag]
+habere esse [daggeog] [lllodog] pro
+ens magnum ad [olllag] [geog] folia
+atque et pro folia
+folia [daaag] in [dollog]
+folia et deus magnum folia
+pro deus autem autem deus autem
+deus deitas et et [llallag]
+magnum autem [cheoag] [ollaglland]
+[ceollodag]
+est radix et
+
+=== END OF PAGE 020 ===

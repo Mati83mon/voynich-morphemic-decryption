@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 010
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with blue flower and curved green elements)
+
+=== TOP LEFT ===
+
+[ceaoeag] semper semper [ceolleag] [doeog]
+non autem autem pro [ceolleog] [cheo] res
+folia res de de partis
+in esse [ceolleog] folia crescit
+et [chead] modos et [golleod]
+et [cheoag] crescit
+
+=== MIDDLE LEFT ===
+
+semper ipse et [ceolleag] [ceogdog]
+ens et pro pro pro
+[olgllog] [aeg] et floret de
+modos et [olleadag] et [ceoglodog]
+floret et floret [gollodag] esse
+per et [ollogdag] et autem homo
+amant [gollodag] [ceodad] esse
+amant [ceollodag] [ceodaad] esse
+amant autem [ceollodag]
+
+=== END OF PAGE 010 ===

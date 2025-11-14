@@ -1,0 +1,52 @@
+VOYNICH MANUSCRIPT - PAGE 017
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large triangular green leaf)
+
+=== TOP LEFT ===
+
+gollog ceog olleog ceollag
+lloolla ceog lloceead dog
+doelog cheog og cheog
+golleag ceog ceag olleog
+llogoll gollogdag
+
+=== TOP RIGHT ===
+
+olleag ceog og ceogd ceog
+cheog ceog ceodad ceog
+ceodand ceogoad ceodad
+ceog ceog golleag daeog
+gollodag golloag ceog
+ceog daud
+
+=== BOTTOM LEFT ===
+
+lloceog ceog
+daud ceag lloedand og
+go ceodand ceollodag og
+ollloceag ceollogag
+go ceodand ceollodag
+
+=== BOTTOM RIGHT ===
+
+oceog goolog godand ceog
+ceog ollloead dog daadag olleog
+ceagcead o cheogocd cheog dag
+oag ceag cheog ceog ceand
+daud cheog ceog geogeg geag
+ceog lllag ceog lland dalllag
+ceog
+
+=== MIDDLE LEFT ===
+
+dog ceceag ceog gollodag
+geag golleog ceog ceog
+oand ceollodog ceog olleag
+ceog ceog gollog ceagog
+ollag ollag cealllag
+oleog ceog ceog ceollag
+odag ceand oceag
+daud ceand daud
+
+=== END OF PAGE 017 ===

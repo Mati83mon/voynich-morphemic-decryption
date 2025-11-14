@@ -1,0 +1,44 @@
+VOYNICH MANUSCRIPT - PAGE 005
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+
+=== TOP LEFT ===
+
+logedog olleog daud olleag
+deeadog olleog og olleag golleg
+dand og ollodag olleog og
+gollodag olloo edog eog o deeog
+olleodag olleeog ceolland geodog
+daud og cheo daud og ceog deog
+
+=== TOP RIGHT ===
+
+olleog olllog deeog llllog o og
+ceogo ollog dag og olleo og
+golloag olloo edog lloog
+ceeodog cheodo gg
+golleag dadog dag golloag
+golllog ollag olleeag gollog
+og daud cheo og og cheo
+
+=== BOTTOM LEFT ===
+
+og daud ceano ago og ceog lloeo og
+dag og llog ceog golleog ollaag og
+gollog ceano daud daud gollog
+golloag dag og deeag dlaad deo
+daud og daud ceog daud cedog
+olllag og dag ago dag daud ceollog
+ceog ollag ceog daud ceollog
+
+=== BOTTOM RIGHT ===
+
+olleog og ceeg dao og
+ceog ollo daud dadag og
+gollog ceollooag olllag
+og ceog golloag gollog
+deedog gollog olleog
+dao olllag ceollog ollag
+daud dag geog ceollog
+
+=== END OF PAGE 005 ===

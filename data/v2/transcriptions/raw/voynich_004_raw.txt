@@ -1,0 +1,52 @@
+VOYNICH MANUSCRIPT - PAGE 004
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+
+=== LEFT COLUMN ===
+
+lina engadog
+gollog aeg goleog
+ceolag ceog ceolland
+aeg ceolleo dand dag
+
+golleag dand deeaog
+egolla aeg cheo o eos ol ag
+ol goeag ollag o eos og og
+oeceag olleag llog og dag
+dag or cheo daud og eog
+
+llog golleeg deeag
+egella aeg cheo o eos og ag
+ol goeag ollag dor ol og og
+oeceag olleag llog og dag
+cheo og oll dag dae og eog
+lloef ceolleeag dag og ceog
+
+lloefag golleeg deeag
+aeg cheo o eos dag ag
+ollag cheo o eos og og
+olllag gollog dor eo oeos
+o golleag ceolleeag dag
+lloef ceolleag cheo dag
+
+=== RIGHT COLUMN ===
+
+aeg og oeceag golland ceog og
+llogeog ceog golor og daud
+dag dog dag ceog olleog dag
+ceog ceolladog
+
+aeg og olleeo golland ceog ag
+llogeog ceog golor og daeog
+ollleag llogll ceog ag og o og
+ollag og dag og og og og og eog
+ceog deeag olleog dag og ceog
+ceeodag dag ceog
+
+ceeodag dag ceog golland
+olllog golog og golog gollog
+dag dag dag dag dag dag olleog
+ollleag olleog og og dag dag
+ceog deeadog
+
+=== END OF PAGE 004 ===
