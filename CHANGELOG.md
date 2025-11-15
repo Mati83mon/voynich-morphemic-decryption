@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.0.3] - 2025-11-15 - Zenodo Metadata Fix
+
+### Fixed
+- **Removed invalid ORCID placeholder** from .zenodo.json
+- Zenodo rejected releases due to "Invalid ORCID identifier" error
+- Metadata now valid and Zenodo integration working ✅
+
+---
+
 ## [2.0.2] - 2025-11-15 - Workflow Fix for Zenodo
 
 ### Fixed
