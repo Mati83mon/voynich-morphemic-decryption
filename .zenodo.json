@@ -44,7 +44,7 @@
     }
   ],
   "grants": [],
-  "version": "2.0.1",
+  "version": "2.0.2",
   "language": "eng",
   "notes": "First successful complete page (100%) decryption in Voynich Manuscript history. Methodology shift from morphemic decomposition (v1.0) to word substitution cipher (v2.0) achieved in 7 days (November 7-14, 2025)."
 }

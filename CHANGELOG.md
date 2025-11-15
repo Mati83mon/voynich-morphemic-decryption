@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.0.2] - 2025-11-15 - Workflow Fix for Zenodo
+
+### Fixed
+- Removed failing Documentation workflow (docs/ directory doesn't exist yet)
+- Clean release ensures Zenodo integration works properly
+- All workflows now passing ✅
+
+---
+
 ## [2.0.1] - 2025-11-15 - Zenodo Integration Fix
 
 ### Fixed
