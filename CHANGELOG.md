@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.0.1] - 2025-11-15 - Zenodo Integration Fix
+
+### Fixed
+- Zenodo webhook integration restored
+- GitHub release automation now properly triggers Zenodo DOI generation
+- Enhanced .zenodo.json metadata for better archival quality
+
+### Infrastructure
+- Webhook properly configured for automatic DOI generation on releases
+- All future releases will automatically receive Zenodo DOI
+
+---
+
 ## [2.0.0] - 2025-11-14 - METHODOLOGY BREAKTHROUGH 🎉
 
 ### 🚀 BREAKING CHANGES
