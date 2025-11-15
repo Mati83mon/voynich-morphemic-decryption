@@ -1,0 +1,39 @@
+VOYNICH MANUSCRIPT - PAGE 013
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Fern-like plant with green fronds and red tops)
+
+=== LEFT COLUMN ===
+
+folia o et [ceogog] et et [ceaeag] et et
+folia post et et deus [cheoag] radix [egol] non
+[doeog] [llodog] magnum et [ceageag]
+folia et [cheoag] autem radix modos
+non non et modos et video [golloag] [cheoand]
+et est radix illam et quidam
+et [ogeog] fero et non operum
+o et caulis et [cheodog]
+[ceogdoeg] [gadand] et non [dland] [ollaag]
+tu modos [olladag]
+
+=== RIGHT COLUMN ===
+
+habere aut
+aut modos ad
+folia et [olladag]
+folia et
+est non
+legum
+
+non et caulis et [cheolag] [cheoand]
+esse non [olllag] [cheodag] caulis non
+[lloceag] atque ante [ceogland] esse
+autem non ante et non sciendum
+et deus [ceolldag]
+radix [ceogdag] [llodog]
+non ipse
+autem nunc non et nunc
+folia et [geoceog] [goad]
+et modos [olladag]
+
+=== END OF PAGE 013 ===

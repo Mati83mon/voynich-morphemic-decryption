@@ -1,0 +1,32 @@
+VOYNICH MANUSCRIPT - PAGE 015
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Star-shaped plant with large green leaves)
+
+=== TOP TEXT ===
+
+ceodand ceogloeg golla ceog goog ceag ceaceag
+oceag lloag ceog good oceag llodag olleog ceodg
+golleog ceag llogeod ollogo gollag golleog ceogd
+oceog llodog ceodand
+golleog ceog oceag daud
+oand olland
+
+=== BOTTOM LEFT ===
+
+llogoeceag golland golleog ceollodag
+oceog olleog ceog olleog daud
+olloceag daeag ceollag go golleog
+ceog ceog og ceogad ceog lloag
+ceag og ad ceog daud ceolland
+ceodg
+
+=== BOTTOM RIGHT ===
+
+golleog ceodad
+ceoglog golleag
+ollag ceollodag daud
+ceog llog ceollodag daud
+cheog ceogdag llodog
+
+=== END OF PAGE 015 ===

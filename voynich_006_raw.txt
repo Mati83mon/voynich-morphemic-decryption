@@ -1,0 +1,26 @@
+VOYNICH MANUSCRIPT - PAGE 006
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large green kidney-shaped leaf)
+
+=== TOP RIGHT ===
+
+daud ceog ceog ollegod and ceog
+llogollead dag ceog golleog daag gollag
+olleog dag ceog ceog ceog og ceodad
+ceog ceogo ceog ceodand
+
+=== MIDDLE (near illustration) ===
+
+daud ceog dand ceollog
+dag ceog ceog ceog llog ceog gollog
+dand ceolleag golleag ceollag
+ceolloag ceog ceog ceog doogog
+
+=== BOTTOM LEFT ===
+
+ceog dag ceog ceog daud
+dag ceolleag ceolog gollag gollag daud o lleog cead
+ceog ceog ceolleag
+
+=== END OF PAGE 006 ===

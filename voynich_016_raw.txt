@@ -1,0 +1,21 @@
+VOYNICH MANUSCRIPT - PAGE 016
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with oval green leaves)
+
+=== TOP TEXT ===
+
+logageog ceag lloeodag goceag olleog og dand lloeodod
+ceagog cheog daud gollog cegeag daud olleog cheoeg cheoeg
+ceoglodog ceolog golland goag llog dag ceog og ceod og
+ceolllaeg oand ceodoeg daud cheog llodag ceog dagll dog
+doeodand golleog ceag lloceag
+
+=== MIDDLE TEXT ===
+
+lloceog ceodg ceododand ceodand olllocedog daud ago
+ollloedad ceog ceog odand ceolleg dag gog dog dand
+golleog o ceogag ceolog ceogag ceog ceag og dog daud
+lloag ollegogand og olleog dag dag og dogdand
+
+=== END OF PAGE 016 ===

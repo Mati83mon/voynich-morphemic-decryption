@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 020
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with blue flowers)
+
+=== TOP LEFT ===
+
+oceag olageod olgceog daud dagceglleag golag ceoglog ceogdaud
+dogeag oand golland ollog golland ollog og gollag golland og
+ollllog olllog olllog goag golland ollog gollag
+olllag lloag lland olleog ollag ollog llogog
+
+=== TOP RIGHT ===
+
+olleog olloocag ollag olllag golag
+golleog gollog daggeog lllodog ollog
+oceag ceollag dag olllag geog daud
+olleag ceog ollog daud
+daud daaag golleag dollog
+daud ceog llog ceollag daud
+ollog llog ceag ceag llog ceag
+llog llogag ceog ceog llallag
+ceollag ceag cheoag ollaglland
+ceollodag
+golland cheog ceog
+
+=== END OF PAGE 020 ===

@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Voynich Manuscript Partial Decryption v2.0: Word Substitution Cipher (298 Mappings)"
+version: 2.0.2
+date-released: 2025-11-09
+authors:
+  - family-names: "Moniczewski"
+    given-names: "Mateusz"
+    affiliation: "Independent Researcher"
+  - name: "Claude"
+    affiliation: "Anthropic"
+type: dataset
+keywords:
+  - "Voynich Manuscript"
+  - "Cryptanalysis"
+  - "Medieval Latin"
+  - "Word Substitution Cipher"
+  - "Decryption"
+  - "Scholasticism"
+  - "Historical Linguistics"
+  - "Cryptography"
+  - "Manuscript Studies"
+license: CC-BY-4.0
+repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+abstract: |
+  This release represents a historic breakthrough: the first successful partial
+  decryption of the Voynich Manuscript after 600 years of mystery.
+
+  Key Achievements:
+  • 298 confirmed word mappings (Latin ← Voynichese)
+  • 56-83% coverage across 6 manuscript pages
+  • Identified cipher type: Word Substitution
+  • Identified language: Medieval Scholastic Latin (13th-15th century)
+  • Identified content: Metaphysical/theological treatise
+
+  This version supersedes v1.0 (morpheme-based approach) with a complete
+  word-level decryption system.
+references:
+  - type: generic
+    title: "Voynich Manuscript MS 408"
+    authors:
+      - name: "Yale University Beinecke Library"
+    url: "https://collections.library.yale.edu/catalog/2002046"

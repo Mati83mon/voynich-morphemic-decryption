@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 010
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with blue flower and curved green elements)
+
+=== TOP LEFT ===
+
+ceaoeag llogog llogog ceolleag doeog
+og ceag ceag ollog ceolleog cheo ceoog
+daud ceoog dand dand doedag
+golleag gollog ceolleog daud olleog
+ceog chead olland ceog golleod
+ceog cheoag olleog
+
+=== MIDDLE LEFT ===
+
+llogog cedog ceog ceolleag ceogdog
+oceag ceog ollog ollog ollog
+olgllog aeg ceog ceollog dand
+olland ceog olleadag ceog ceoglodog
+ceollog ceog ceollog gollodag gollog
+golleg ceog ollogdag ceog ceag cead
+ceolog gollodag ceodad gollog
+ceolog ceollodag ceodaad gollog
+ceolog ceag ceollodag
+
+=== END OF PAGE 010 ===

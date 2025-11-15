@@ -1,0 +1,46 @@
+VOYNICH MANUSCRIPT - PAGE 018
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with oval green leaves and flowers)
+
+=== TOP LEFT ===
+
+et [daogol] qui et pro et [olceand] [ollogeand] folia
+[deeolog] [ogg] nunc et post modos video
+et non et non et et [ceol] nunc nunc [daeg]
+[oceog] et non et et autem folia nunc
+[ceod] et radix et [cheodag] radix crescit
+folia caulis crescit pro ad [oleag]
+[lloceag] [lloceag] ens nunc
+folia caulis modos
+
+=== TOP RIGHT ===
+
+et [lllag]
+non nunc
+est crescit
+crescit autem
+esse [oaglllag]
+ipse aut non
+habere [ceogllog]
+[ollleagd] ipse [od]
+
+=== BOTTOM LEFT ===
+
+[lloceag] et dat ad
+[ceod] pro ergo [lllog]
+[lllagdag] non amant o
+et aut [galladag]
+[oceog] et autem magnum
+et nunc [oceand]
+
+=== BOTTOM RIGHT ===
+
+et sciendum et folia
+[ceceog]
+sciendum omnis [olladeg] o aut
+et deus autem [cheoag] esse radix
+et nunc autem magnum et non
+crescit [dogog] et et [ceodlog]
+
+=== END OF PAGE 018 ===

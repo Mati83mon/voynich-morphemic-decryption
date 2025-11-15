@@ -1,0 +1,44 @@
+VOYNICH MANUSCRIPT - PAGE 005
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+
+=== TOP LEFT ===
+
+[logedog] crescit folia atque
+[deeadog] crescit non atque per
+de non [ollodag] crescit non
+[gollodag] [olloo] [edog] [eog] o [deeog]
+hominis [olleeog] sciendum [geodog]
+folia non [cheo] folia non et rei
+
+=== TOP RIGHT ===
+
+crescit [olllog] [deeog] [llllog] o non
+[ceogo] pro ad non [olleo] non
+[golloag] [olloo] [edog] [lloog]
+[ceeodog] [cheodo] [gg]
+in [dadog] ad [golloag]
+[golllog] aut nec esse
+non folia [cheo] non non [cheo]
+
+=== BOTTOM LEFT ===
+
+non folia [ceano] [ago] non et [lloeo] non
+ad non deus et habere [ollaag] non
+esse [ceano] folia folia esse
+[golloag] ad non dicunt [dlaad] [deo]
+folia non folia et folia ipse
+[olllag] non ad [ago] ad folia floret
+et aut et folia floret
+
+=== BOTTOM RIGHT ===
+
+crescit non enim [dao] non
+et [ollo] folia [dadag] non
+esse [ceollooag] [olllag]
+non et [golloag] esse
+[deedog] esse crescit
+[dao] [olllag] floret aut
+folia ad [geog] floret
+
+=== END OF PAGE 005 ===

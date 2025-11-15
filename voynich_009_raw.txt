@@ -1,0 +1,25 @@
+VOYNICH MANUSCRIPT - PAGE 009
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with pink-green flowers)
+
+=== TOP LEFT ===
+
+llogoeag olllag ceog og ceag gollog dand ceog ollag
+dag ceog ceogollog gollag ceandg ceog ceog ceog
+olleag olloceog ceolog gollodag gollag daud ceog
+olleog ceog olllag daud olllag ollog
+
+=== MIDDLE LEFT ===
+
+daud golleag ollad
+ceog ceolllog og ceog
+gollag olloceag llogdag olleog
+ceog ceog ceog ollog ceolog
+daud cheoceog llogog llogdag
+o dag ceog deeocog ceand
+golleog ceag golleog
+daud ceand ceang
+daud ollog
+
+=== END OF PAGE 009 ===

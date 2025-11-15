@@ -1,0 +1,15 @@
+VOYNICH MANUSCRIPT - PAGE 012
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with green leaves and red flowers)
+
+=== TOP TEXT ===
+
+og ceag ceog olleog ceod ceog ceodaag dland daud
+doelog ceog ceog olland daud cheog ceog ceogoleog
+golleg ceog olllog olleag daud go dagceag do
+gollag ceod olllog dland geog daud cheoeg olleaglland
+golleag ceog ceollog olleog daud dag ceog ceolland
+ollag ceog dagdoeg
+
+=== END OF PAGE 012 ===

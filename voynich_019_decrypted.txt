@@ -1,0 +1,40 @@
+VOYNICH MANUSCRIPT - PAGE 019
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with pinnate leaves, green feathery foliage)
+
+=== TOP LEFT ===
+
+deitas [ceodg] crescit ens o et [odoand] folia
+[goag] umquam sciendum [olllodag] [ceogd] floret modos non deus fero crescit [olllag]
+venire video esse modos aut
+autem [ceolloag] [ceolloed] et nunc aut dat
+folia et deus radix sciendum autem [dageodog]
+crescit fero o non
+
+=== TOP RIGHT ===
+
+et non aut
+autem nunc
+sunt caulis
+aut et
+pro [cagllag]
+autem non et
+et non ad
+
+=== BOTTOM LEFT ===
+
+[loeand] faciunt modos [lllogoeag] autem
+non et non deus [llogeog] aut esse magnum autem
+non [googlleag] crescit [llogeag] modos o dat
+[oceolleag] floret [ceogolleag] [dauddog]
+[ollloeag] [odoand] floret
+
+=== BOTTOM RIGHT ===
+
+[dagag]
+magnum
+et [ceod] [olllag]
+folia
+
+=== END OF PAGE 019 ===

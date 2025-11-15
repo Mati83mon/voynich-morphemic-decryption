@@ -1,0 +1,32 @@
+VOYNICH MANUSCRIPT - PAGE 015
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Star-shaped plant with large green leaves)
+
+=== TOP TEXT ===
+
+mittunt [ceogloeg] [golla] et [goog] autem [ceaceag]
+ens [lloag] et [good] ens omnis crescit [ceodg]
+habere autem [llogeod] putat sunt habere [ceogd]
+[oceog] [llodog] mittunt
+habere et ens folia
+[oand] modos
+
+=== BOTTOM LEFT ===
+
+[llogoeceag] est habere [ceollodag]
+[oceog] crescit et crescit folia
+[olloceag] [daeag] magnum lex habere
+et et non annos et [lloag]
+autem non [ad] et folia sciendum
+[ceodg]
+
+=== BOTTOM RIGHT ===
+
+habere [ceodad]
+[ceoglog] in
+aut [ceollodag] folia
+et deus [ceollodag] folia
+radix [ceogdag] [llodog]
+
+=== END OF PAGE 015 ===

@@ -1,0 +1,37 @@
+VOYNICH MANUSCRIPT - PAGE 007
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with red-green leaves and brown root)
+
+=== TOP LEFT COLUMN ===
+
+lloceog gollog ceog olleog dand
+oceog dlog dag golloead ceag
+golleog oceog dand oceag ceolleag
+ceog dlog ceog ceog ceog ceog
+gollog ceologag gollog olleog
+ceog gollog gollog ollog o ceog
+oceog ceog ceog ollog daeog
+golleog ceolog ag golog
+dllag ceog ceog
+
+=== MIDDLE LEFT ===
+
+llogeog dlog ceog ceog ceog
+golladand dag ceog ceog ceogllog oceag
+gollog golleag gollag golleag ceolog
+ceog golog olleag golleag
+
+=== BOTTOM LEFT ===
+
+ceollogog ceog og ceog ceolog ceog golleog
+golladad ceog ollog dand golleag ollog dand
+doeog ollag golleag golladad o ag
+
+=== MIDDLE RIGHT ===
+
+golloglog ceodad golleog gollog olleog ollog
+ollleog og ceog golog dad golleag log ceag
+oceog ceog odand ceog o aad olleog doad
+
+=== END OF PAGE 007 ===

@@ -1,0 +1,52 @@
+VOYNICH MANUSCRIPT - PAGE 004
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+
+=== LEFT COLUMN ===
+
+[lina] [engadog]
+esse [aeg] [goleog]
+[ceolag] et sciendum
+[aeg] [ceolleo] de ad
+
+in de [deeaog]
+[egolla] [aeg] [cheo] o [eos] ego ante
+ego [goeag] aut o [eos] non non
+[oeceag] atque deus non ad
+ad [or] [cheo] folia non [eog]
+
+deus etiam dicunt
+[egella] [aeg] [cheo] o [eos] non ante
+ego [goeag] aut [dor] ego non non
+[oeceag] atque deus non ad
+[cheo] non [oll] ad [dae] non [eog]
+[lloef] [ceolleeag] ad non et
+
+[lloefag] etiam dicunt
+[aeg] [cheo] o [eos] ad ante
+aut [cheo] o [eos] non non
+[olllag] esse [dor] [eo] [oeos]
+o in [ceolleeag] ad
+[lloef] [ceolleag] [cheo] ad
+
+=== RIGHT COLUMN ===
+
+[aeg] non [oeceag] est et non
+[llogeog] et [golor] non folia
+ad dat ad et crescit ad
+et [ceolladog]
+
+[aeg] non [olleeo] est et ante
+[llogeog] et [golor] non [daeog]
+ergo [llogll] et ante non o non
+aut non ad non non non non non [eog]
+et dicunt crescit ad non et
+[ceeodag] ad et
+
+[ceeodag] ad et est
+[olllog] genus non genus esse
+ad ad ad ad ad ad crescit
+ergo crescit non non ad ad
+et [deeadog]
+
+=== END OF PAGE 004 ===
