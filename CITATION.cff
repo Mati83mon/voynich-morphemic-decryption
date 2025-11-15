@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this research, please cite it as below."
 type: software
 title: "Voynich Manuscript Complete Decryption: Word Substitution Cipher Breakthrough"
-version: 2.0.0
-date-released: "2025-11-14"
+version: 2.0.4
+date-released: "2025-11-15"
 abstract: |
   Complete decryption methodology for the Voynich Manuscript using word substitution
   cipher analysis. This version represents a breakthrough with the first complete page
