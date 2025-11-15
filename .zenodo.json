@@ -30,19 +30,6 @@
       "scheme": "url"
     }
   ],
-  "contributors": [
-    {
-      "name": "Anthropic (Claude AI)",
-      "type": "Other",
-      "affiliation": "Anthropic"
-    },
-    {
-      "name": "Beinecke Rare Book & Manuscript Library",
-      "type": "DataCollector",
-      "affiliation": "Yale University"
-    }
-  ],
-  "grants": [],
   "version": "2.0.3",
   "language": "eng",
   "notes": "First successful complete page (100%) decryption in Voynich Manuscript history. Methodology shift from morphemic decomposition (v1.0) to word substitution cipher (v2.0) achieved in 7 days (November 7-14, 2025)."
