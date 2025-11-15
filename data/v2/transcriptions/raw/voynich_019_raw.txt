@@ -1,0 +1,40 @@
+VOYNICH MANUSCRIPT - PAGE 019
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with pinnate leaves, green feathery foliage)
+
+=== TOP LEFT ===
+
+llogag ceodg olleog oceag o ceog odoand daud
+goag ollland ceolland olllodag ceogd ceollog olland og llog godag olleog olllag
+oglland olleg gollog olland ollag
+ceag ceolloag ceolloed ceog ceand ollag dog
+daud ceog llog cheog ceolland ceag dageodog
+olleog godag o og
+
+=== TOP RIGHT ===
+
+ceog og ollag
+ceag ceand
+gollag cheoeg
+ollag ceog
+ollog cagllag
+ceag og ceog
+ceog og dag
+
+=== BOTTOM LEFT ===
+
+loeand olloeag olland lllogoeag ceag
+og ceog og llog llogeog ollag gollog ceollag ceag
+og googlleag olleog llogeag olland o dog
+oceolleag ceollog ceogolleag dauddog
+ollloeag odoand ceollog
+
+=== BOTTOM RIGHT ===
+
+dagag
+ceollag
+ceog ceod olllag
+daud
+
+=== END OF PAGE 019 ===

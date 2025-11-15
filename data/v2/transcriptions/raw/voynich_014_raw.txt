@@ -1,0 +1,27 @@
+VOYNICH MANUSCRIPT - PAGE 014
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Star-shaped leaves with blue/green spheres)
+
+=== LEFT COLUMN ===
+
+lloaggeag ceolleog good ceog ceoleg o ceag ceog olleog
+aug ceog ceolland golleag ceag odand llodag ceog ceand
+ollleag ceog ceollog ceolleag cheog ollog ollog dagolog
+ceollog golleag dag o daud geag dag olladag
+daud cheog ceodad dag ollog ollag daggeag
+
+llodog daglllog ceolleag og
+o geog ceogog daud olleog dag doag
+doeog ceollog dagog gollog
+og cead ceog cheoag olleog ceog
+golland cheog ceog oag ceog og golleag
+gollog o og geag o ceag o dog ollag
+ceog cheoag cheoag cheogeag
+golleog
+ollleogdag ceag olleog
+gecodagllloceog ceog dog
+agog llog daud
+oceog ceog olland
+
+=== END OF PAGE 014 ===

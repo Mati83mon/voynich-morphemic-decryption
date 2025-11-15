@@ -1,0 +1,17 @@
+[VOYNICH] [MANUSCRIPT] [-] [PAGE] [008]
+[Raw] [Voynichese] [text] [extracted] [by] [Claude] [Vision] [API]
+[Date:] [2025-11-14]
+[Section:] [Botanical] [(High-quality] [zoom] [of] [text)]
+
+=== TEXT (single column) ===
+
+haec atque et et atque o ante
+deus omnis et solum aut
+deus et pro modo et
+et de in humanus et
+et et deus pro autem et
+magnum esse deus et nos
+magnum esse aut aut
+autem anima
+
+=== END OF PAGE 008 ===

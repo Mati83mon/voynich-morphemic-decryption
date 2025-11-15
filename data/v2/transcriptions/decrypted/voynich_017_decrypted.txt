@@ -1,0 +1,52 @@
+VOYNICH MANUSCRIPT - PAGE 017
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large triangular green leaf)
+
+=== TOP LEFT ===
+
+esse et crescit magnum
+[lloolla] et [lloceead] dat
+[doelog] radix non radix
+in et autem crescit
+[llogoll] [gollogdag]
+
+=== TOP RIGHT ===
+
+atque et non [ceogd] et
+radix et [ceodad] et
+mittunt [ceogoad] [ceodad]
+et et in [daeog]
+[gollodag] [golloag] et
+et folia
+
+=== BOTTOM LEFT ===
+
+[lloceog] et
+folia autem [lloedand] non
+lex mittunt [ceollodag] non
+[ollloceag] [ceollogag]
+lex mittunt [ceollodag]
+
+=== BOTTOM RIGHT ===
+
+[oceog] [goolog] [godand] et
+et [ollloead] dat [daadag] crescit
+[ceagcead] o [cheogocd] radix ad
+[oag] autem radix et nunc
+folia radix et [geogeg] haec
+et [lllag] et [lland] [dalllag]
+et
+
+=== MIDDLE LEFT ===
+
+dat [ceceag] et [gollodag]
+haec habere et et
+[oand] [ceollodog] et atque
+et et esse [ceagog]
+aut aut [cealllag]
+[oleog] et et magnum
+[odag] nunc ens
+folia nunc folia
+
+=== END OF PAGE 017 ===

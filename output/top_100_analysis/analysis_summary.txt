@@ -1,0 +1,53 @@
+======================================================================
+VOYNICH MANUSCRIPT MORPHEMIC ANALYSIS RESULTS
+======================================================================
+
+Total Words Analyzed:      100
+Unique Words:              100
+Morphemes Identified:      157
+Verified Words:            0
+
+Statistical Analysis:
+  Chi-Square Statistic:    2175.3282
+  P-Value:                 0.000000
+  Significance Threshold:  0.05
+  Statistically Significant: YES
+
+Confidence Metrics:
+  Average Word Confidence: 0.00%
+  High Confidence Words:   0
+
+======================================================================
+
+Top 20 Most Frequent Morphemes:
+======================================================================
+Rank   Glyph           Type         Frequency    Confidence  
+----------------------------------------------------------------------
+1      <               unknown      0            0.00        
+2      !               unknown      0            0.00        
+3      $               unknown      0            0.00        
+4      I               unknown      0            0.00        
+5      =               unknown      0            0.00        
+6      H               unknown      0            0.00        
+7      $               unknown      0            0.00        
+8      L               unknown      0            0.00        
+9      =               unknown      0            0.00        
+10     A               unknown      0            0.00        
+11     $               unknown      0            0.00        
+12     1               unknown      0            0.00        
+13     $               unknown      0            0.00        
+14     $               unknown      0            0.00        
+15     B               unknown      0            0.00        
+16     $               unknown      0            0.00        
+17     =               unknown      0            0.00        
+18     1               unknown      0            0.00        
+19     >               unknown      0            0.00        
+20     $               unknown      0            0.00        
+======================================================================
+
+Confidence Score Breakdown:
+======================================================================
+High Confidence (≥0.7):        0 (  0.0%)
+Medium Confidence (0.4-0.7):      0 (  0.0%)
+Low Confidence (<0.4):       100 (100.0%)
+======================================================================

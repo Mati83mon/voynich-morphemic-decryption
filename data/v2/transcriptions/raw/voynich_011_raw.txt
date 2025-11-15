@@ -1,0 +1,17 @@
+VOYNICH MANUSCRIPT - PAGE 011
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Large green heart-shaped leaf)
+
+=== TOP TEXT ===
+
+ceagd ceog gollag oand ogeaeag ceoda ollegag
+ceoglad golland ceog cheoeg olleg ceog ollogeg olllog
+ollog olllog ceog daud olloceag cheoeg gollegead
+olland cegeag cead o ceog ceogleag
+
+lloeg ceodg goaag ceodoell ceog golleaeg daud ceodand
+ceog ceag ceag goaeag dogllog goag cheoeg doglog og
+golleg ollog ceog golleag ceodal
+
+=== END OF PAGE 011 ===

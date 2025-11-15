@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  voynich-api:
+    build:
+      context: ..
+      dockerfile: Docker/Dockerfile
+    container_name: voynich-morphemic-api
+    ports:
+      - "8000:8000"
+    environment:
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - LOG_LEVEL=INFO
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ../data:/app/data:ro
+      - ../output:/app/output
+      - ../logs:/app/logs
+    restart: unless-stopped
+    networks:
+      - voynich-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  voynich-network:
+    driver: bridge
+
+volumes:
+  voynich-data:
+  voynich-output:
+  voynich-logs:

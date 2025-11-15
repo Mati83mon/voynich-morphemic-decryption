@@ -1,0 +1,37 @@
+VOYNICH MANUSCRIPT - PAGE 007
+Raw Voynichese text extracted by Claude Vision API
+Date: 2025-11-14
+Section: Botanical (Plant with red-green leaves and brown root)
+
+=== TOP LEFT COLUMN ===
+
+[lloceog] esse et crescit de
+[oceog] [dlog] ad [golloead] autem
+habere [oceog] de ens [ceolleag]
+et [dlog] et et et et
+esse [ceologag] esse crescit
+et esse esse pro o et
+[oceog] et et pro [daeog]
+habere amant ante genus
+debuit et et
+
+=== MIDDLE LEFT ===
+
+[llogeog] [dlog] et et et
+[golladand] ad et et [ceogllog] ens
+esse in sunt in amant
+et genus atque in
+
+=== BOTTOM LEFT ===
+
+[ceollogog] et non et amant et habere
+[golladad] et pro de in pro de
+[doeog] aut in [golladad] o ante
+
+=== MIDDLE RIGHT ===
+
+[golloglog] [ceodad] habere esse crescit pro
+[ollleog] non et genus [dad] in dare autem
+[oceog] et legum et o [aad] crescit [doad]
+
+=== END OF PAGE 007 ===

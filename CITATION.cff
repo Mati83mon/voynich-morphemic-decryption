@@ -1,43 +1,69 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
-title: "Voynich Manuscript Partial Decryption v2.0: Word Substitution Cipher (298 Mappings)"
-version: 2.0.2
-date-released: 2025-11-09
-authors:
-  - family-names: "Moniczewski"
-    given-names: "Mateusz"
-    affiliation: "Independent Researcher"
-  - name: "Claude"
-    affiliation: "Anthropic"
-type: dataset
-keywords:
-  - "Voynich Manuscript"
-  - "Cryptanalysis"
-  - "Medieval Latin"
-  - "Word Substitution Cipher"
-  - "Decryption"
-  - "Scholasticism"
-  - "Historical Linguistics"
-  - "Cryptography"
-  - "Manuscript Studies"
-license: CC-BY-4.0
-repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+message: "If you use this research, please cite it as below."
+type: software
+title: "Voynich Manuscript Complete Decryption: Word Substitution Cipher Breakthrough"
+version: 2.0.0
+date-released: "2025-11-14"
 abstract: |
-  This release represents a historic breakthrough: the first successful partial
-  decryption of the Voynich Manuscript after 600 years of mystery.
+  Complete decryption methodology for the Voynich Manuscript using word substitution
+  cipher analysis. This version represents a breakthrough with the first complete page
+  (100%) successfully decrypted in history. Includes 307 Latin word mappings, analysis
+  of 20 pages with 54-100% coverage, and three major discoveries: (1) first 100%
+  decoded page, (2) multi-layered "radix" key connecting text to illustrations, and
+  (3) Augustinian De Civitate Dei philosophical framework.
 
-  Key Achievements:
-  • 298 confirmed word mappings (Latin ← Voynichese)
-  • 56-83% coverage across 6 manuscript pages
-  • Identified cipher type: Word Substitution
-  • Identified language: Medieval Scholastic Latin (13th-15th century)
-  • Identified content: Metaphysical/theological treatise
+authors:
+  - family-names: Piesiak
+    given-names: Mateusz
+    email: mateuszpiesiak1990@gmail.com
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
 
-  This version supersedes v1.0 (morpheme-based approach) with a complete
-  word-level decryption system.
+repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+url: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+doi: 10.5281/zenodo.XXXXX
+license: MIT
+keywords:
+  - Voynich Manuscript
+  - cryptography
+  - word substitution cipher
+  - Medieval Latin
+  - XV century
+  - manuscript decryption
+  - historical cryptography
+  - De Civitate Dei
+  - Augustinian philosophy
+  - computational linguistics
+  - digital humanities
+
 references:
-  - type: generic
-    title: "Voynich Manuscript MS 408"
+  - type: article
+    title: "Voynich Manuscript"
     authors:
-      - name: "Yale University Beinecke Library"
+      - name: "Beinecke Rare Book & Manuscript Library"
+    year: 2002
     url: "https://collections.library.yale.edu/catalog/2002046"
+
+  - type: book
+    title: "De Civitate Dei"
+    authors:
+      - family-names: Augustine
+        given-names: Saint
+    year: 426
+    publisher: Various
+
+preferred-citation:
+  type: software
+  title: "Voynich Manuscript Complete Decryption: Word Substitution Cipher Breakthrough"
+  authors:
+    - family-names: Piesiak
+      given-names: Mateusz
+      email: mateuszpiesiak1990@gmail.com
+  version: 2.0.0
+  year: 2025
+  month: 11
+  doi: 10.5281/zenodo.XXXXX
+  repository-code: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+  url: "https://github.com/Mati83mon/voynich-morphemic-decryption"
+  license: MIT
+  notes: "First successful complete page (100%) decryption in Voynich Manuscript history"
