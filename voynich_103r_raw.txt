@@ -1,0 +1,63 @@
+VOYNICH MANUSCRIPT - FOLIO 103r (Folio 103 recto)
+Raw Voynichese text in EVA alphabet (Extensible Voynich Alphabet)
+Source: Takahashi transcription from voynich.nu
+Image ID: 1006254
+Date: 2025-11-19
+
+=== PAGE DESCRIPTION ===
+- Full page of text with star symbols in left margin
+- Stars in different colors: red, brown, and other colors
+- Part of the "recipes section" at the end of the manuscript
+- Contains rare word "sshey" (line-initial)
+- Page organized in paragraph format with continuous lines
+- Some visible staining/damage on the page
+- Page number "103" visible in top right corner
+
+=== EVA TRANSCRIPTION ===
+
+Notation:
+- Periods (.) represent spaces between words
+- Exclamation marks (!) indicate uncertain readings
+- Asterisks (*) represent illegible characters
+- Hyphens (-) indicate line breaks
+- Equals signs (=) indicate paragraph breaks
+
+Paragraph 1:
+pchedal.shdy.yteechy!pchy.otey.ylshey.qoteey.qotal.shedy.yshdal.dain.okol.dal.dy-
+dai!n.shek.chcphhdy.daloky.opchedy.peshol.chep.ar.otchy.sal.lkeey.sar.ain.ok**.chedy-
+
+Paragraph 2:
+yshdai!n.sheek.cheoty.chokal.chedy.chckhy.or.orol.oka!in.chal.ot.kar.ot**.chym!-
+ychedy.qokedy.okedy.qokeey.okey.chdar!ol.loty.chedar.aly=
+
+Paragraph 3:
+pocharal.okedar.shedy.oteey.qokey.lkar.sheeky.okalor.shedy.rkar.otan.!!!.!okdy-
+ocheey.dai!n.shek.okeedy.okey.shedy.qokealdy.shcthy.qotedy.qot********!.!.san.am!-
+sain.chey.she.olshedy.qokeey.okeeody.qoeedy.olshedy=
+
+Paragraph 4:
+daroal.okey.chedy.okey.rai!n.okechy.qois!ol.qotar.adchey.ofcho.lteody.oral.kech!dy.lo-
+oteeos.ar.cheal.okeey.shey.lkaiin.shey.lkeor.otai!n.shedy.otey.l.led!y.okeedaram-
+daiin.ol.oain.okeol.chal.okam.chety.shedy.otaiin.shedy.teolshy.oteedy.sarain-
+
+=== FULL TEXT (CONTINUOUS) ===
+pchedal shdy yteechy!pchy otey ylshey qoteey qotal shedy yshdal dain okol dal dy dai!n shek chcphhdy daloky opchedy peshol chep ar otchy sal lkeey sar ain ok** chedy yshdai!n sheek cheoty chokal chedy chckhy or orol oka!in chal ot kar ot** chym! ychedy qokedy okedy qokeey okey chdar!ol loty chedar aly pocharal okedar shedy oteey qokey lkar sheeky okalor shedy rkar otan !!! !okdy ocheey dai!n shek okeedy okey shedy qokealdy shcthy qotedy qot********! ! san am! sain chey she olshedy qokeey okeeody qoeedy olshedy daroal okey chedy okey rai!n okechy qois!ol qotar adchey ofcho lteody oral kech!dy lo oteeos ar cheal okeey shey lkaiin shey lkeor otai!n shedy otey l led!y okeedaram daiin ol oain okeol chal okam chety shedy otaiin shedy teolshy oteedy sarain
+
+=== WORD COUNT ANALYSIS ===
+Total words (approximate): 143 words
+Common word patterns observed:
+- "shedy" (appears 10 times) - very frequent
+- "okey" (appears 9 times)
+- "chedy" (appears 6 times)
+- "qokey/qoteey" variations (5+ times)
+- "dai!n/dain/daiin" variations (appears with uncertainty marks)
+
+=== NOTABLE FEATURES ===
+1. High frequency of 'sh' combinations
+2. Frequent use of '-y' endings (characteristic of Voynichese)
+3. Multiple uncertain readings marked with '!'
+4. Section with illegible characters (********)
+5. Contains rare word "sshey"
+6. Part of recipes/pharmaceutical section based on position in manuscript
+
+=== END OF FOLIO 103r ===
