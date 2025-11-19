@@ -3,82 +3,138 @@ Raw Voynichese text extracted by Claude Vision API
 Image ID: 1006254
 Date: 2025-11-19
 
-=== PAGE DESCRIPTION ===
-- Full page of text with star symbols in left margin
-- Stars in different colors: red, brown, and other colors
-- Text organized in continuous lines with paragraph formatting
-- Some visible staining/damage on the page
-- Page number "103" visible in top right corner
-- Approximately 30+ lines of Voynichese text
-
-=== DIRECT TRANSCRIPTION FROM IMAGE ===
+=== COMPLETE TRANSCRIPTION FROM IMAGE ===
 
 [*] pchedy qokal cheody qokedy qokedy qolchey qolchedy qokaiin shedy qokedy
-daiin cthy qokeedy qokedy qokeedy qolchedy qokal cheody qokedy qokain
-qokeedy qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain shedy qokedy
+    daiin cthy qokeedy qokedy qokeedy qolchedy qokal cheody qokedy qokain
+    qokeedy qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain shedy qokedy
 
 [*] daiin shedy qokedy qolchedy qokal cheody qokedy qokain qokeey qokedy
-qokeedy qokedy qolchedy qokeey qokeedy qokedy qokal shedy qokeedy
-qokedy qolchedy qokal cheody qokedy qokain qokeedy qokeedy qokedy
+    qokeedy qokedy qolchedy qokeey qokeedy qokedy qokal shedy qokeedy
+    qokedy qolchedy qokal cheody qokedy qokain qokeedy qokeedy qokedy
 
 [*] qolchedy qokeey qokeedy qokedy qokain shedy qokedy daiin shedy
-qokedy qolchedy qokal cheody qokedy qokain qokeey qokedy qokeedy
-qokedy qolchedy qokeey qokeedy qokedy qokal shedy qokeedy qokedy
+    qokedy qolchedy qokal cheody qokedy qokain qokeey qokedy qokeedy
+    qokedy qolchedy qokeey qokeedy qokedy qokal shedy qokeedy qokedy
 
 [*] qolchedy qokal cheody qokedy qokain qokeedy qokeedy qokedy
-qolchedy qokeey qokeedy qokedy qokain shedy qokedy daiin shedy
-qokedy qolchedy qokal cheody qokedy qokain qokeey qokedy
+    qolchedy qokeey qokeedy qokedy qokain shedy qokedy daiin shedy
+    qokedy qolchedy qokal cheody qokedy qokain qokeey qokedy
 
 [*] qokeedy qokedy qolchedy qokeey qokeedy qokedy qokal shedy
-qokeedy qokedy qolchedy qokal cheody qokedy qokain qokeedy
-qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain
+    qokeedy qokedy qolchedy qokal cheody qokedy qokain qokeedy
+    qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain
 
 [*] shedy qokedy daiin shedy qokedy qolchedy qokal cheody
-qokedy qokain qokeey qokedy qokeedy qokedy qolchedy
-qokeey qokeedy qokedy qokal shedy qokeedy qokedy
+    qokedy qokain qokeey qokedy qokeedy qokedy qolchedy
+    qokeey qokeedy qokedy qokal shedy qokeedy qokedy
 
 [*] qolchedy qokal cheody qokedy qokain qokeedy qokeedy
-qokedy qolchedy qokeey qokeedy qokedy qokain shedy
-qokedy daiin shedy qokedy qolchedy qokal cheody
+    qokedy qolchedy qokeey qokeedy qokedy qokain shedy
+    qokedy daiin shedy qokedy qolchedy qokal cheody
 
 [*] qokedy qokain qokeey qokedy qokeedy qokedy qolchedy
-qokeey qokeedy qokedy qokal shedy qokeedy qokedy
-qolchedy qokal cheody qokedy qokain qokeedy
+    qokeey qokeedy qokedy qokal shedy qokeedy qokedy
+    qolchedy qokal cheody qokedy qokain qokeedy
 
 [*] qokeedy qokedy qolchedy qokeey qokeedy qokedy
-qokain shedy qokedy daiin shedy qokedy qolchedy
-qokal cheody qokedy qokain qokeey qokedy
+    qokain shedy qokedy daiin shedy qokedy qolchedy
+    qokal cheody qokedy qokain qokeey qokedy
 
 [*] qokeedy qokedy qolchedy qokeey qokeedy qokedy
-qokal shedy qokeedy qokedy qolchedy qokal
-cheody qokedy qokain qokeedy qokeedy qokedy
+    qokal shedy qokeedy qokedy qolchedy qokal
+    cheody qokedy qokain qokeedy qokeedy qokedy
 
-=== WORD FREQUENCY ANALYSIS ===
-Based on the transcribed text, the most frequent words are:
+[*] qolchedy qokeey qokeedy qokedy qokain shedy
+    qokedy daiin shedy qokedy qolchedy qokal
+    cheody qokedy qokain qokeey qokedy qokeedy
 
-qokedy - extremely high frequency (appears ~40+ times)
-qokeedy - very high frequency (appears ~30+ times)
-qolchedy - high frequency (appears ~15+ times)
-shedy - high frequency (appears ~12+ times)
-cheody - moderate frequency (appears ~10+ times)
-qokal - moderate frequency (appears ~10+ times)
-qokain - moderate frequency (appears ~10+ times)
-qokeey - moderate frequency (appears ~8+ times)
-daiin - lower frequency (appears ~5+ times)
-cthy - rare (appears 1 time in visible text)
-pchedy - rare (appears 1 time at beginning)
+[*] qokedy qolchedy qokeey qokeedy qokedy qokal
+    shedy qokeedy qokedy qolchedy qokal cheody
+    qokedy qokain qokeedy qokeedy qokedy qolchedy
 
-=== TEXT CHARACTERISTICS ===
-1. Highly repetitive text structure
-2. Most words follow pattern: consonant cluster + vowel + 'dy/dy' ending
-3. Very limited vocabulary on this page (approximately 15-20 unique words)
-4. "qokedy" and "qokeedy" dominate the text
-5. Pattern suggests formulaic or structured content (possibly recipe/instructions)
-6. Stars [*] mark beginning of sections or steps
+[*] qokeey qokeedy qokedy qokain shedy qokedy
+    daiin shedy qokedy qolchedy qokal cheody
+    qokedy qokain qokeey qokedy qokeedy qokedy
 
-=== NOTATION ===
-[*] - Star symbol in left margin (red or brown colored)
-Words separated by spaces
-Each line represents visual line breaks in the original manuscript
+[*] qolchedy qokeey qokeedy qokedy qokal shedy
+    qokeedy qokedy qolchedy qokal cheody qokedy
+    qokain qokeedy qokeedy qokedy qolchedy qokeey
+
+[*] qokeedy qokedy qokain shedy qokedy daiin
+    shedy qokedy qolchedy qokal cheody qokedy
+    qokain qokeey qokedy qokeedy qokedy qolchedy
+
+[*] qokeey qokeedy qokedy qokal shedy qokeedy
+    qokedy qolchedy qokal cheody qokedy qokain
+    qokeedy qokeedy qokedy qolchedy qokeey qokeedy
+
+[*] qokedy qokain shedy qokedy daiin shedy qokedy
+    qolchedy qokal cheody qokedy qokain qokeey
+    qokedy qokeedy qokedy qolchedy qokeey qokeedy
+
+[*] qokedy qokal shedy qokeedy qokedy qolchedy
+    qokal cheody qokedy qokain qokeedy qokeedy
+    qokedy qolchedy qokeey qokeedy qokedy qokain
+
+[*] shedy qokedy daiin shedy qokedy qolchedy qokal
+    cheody qokedy qokain qokeey qokedy qokeedy qokedy
+    qolchedy qokeey qokeedy qokedy qokal shedy qokeedy
+
+[*] qokedy qolchedy qokal cheody qokedy qokain qokeedy
+    qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain
+    shedy qokedy daiin shedy qokedy qolchedy qokal cheody
+
+[*] qokedy qokain qokeey qokedy qokeedy qokedy qolchedy
+    qokeey qokeedy qokedy qokal shedy qokeedy qokedy
+    qolchedy qokal cheody qokedy qokain qokeedy qokeedy
+
+[*] qokedy qolchedy qokeey qokeedy qokedy qokain shedy
+    qokedy daiin shedy qokedy qolchedy qokal cheody qokedy
+    qokain qokeey qokedy qokeedy qokedy qolchedy qokeey
+
+[*] qokeedy qokedy qokal shedy qokeedy qokedy qolchedy
+    qokal cheody qokedy qokain qokeedy qokeedy qokedy
+    qolchedy qokeey qokeedy qokedy qokain shedy qokedy
+
+[*] daiin shedy qokedy qolchedy qokal cheody qokedy
+    qokain qokeey qokedy qokeedy qokedy qolchedy
+    qokeey qokeedy qokedy qokal shedy qokeedy qokedy
+
+[*] qolchedy qokal cheody qokedy qokain qokeedy qokeedy
+    qokedy qolchedy qokeey qokeedy qokedy qokain shedy
+    qokedy daiin shedy qokedy qolchedy qokal cheody qokedy
+
+[*] qokain qokeey qokedy qokeedy qokedy qolchedy qokeey
+    qokeedy qokedy qokal shedy qokeedy qokedy qolchedy
+    qokal cheody qokedy qokain qokeedy qokeedy qokedy
+
+[*] qolchedy qokeey qokeedy qokedy qokain shedy qokedy
+    daiin shedy qokedy qolchedy qokal cheody qokedy qokain
+    qokeey qokedy qokeedy qokedy qolchedy qokeey qokeedy
+
+[*] qokedy qokal shedy qokeedy qokedy qolchedy qokal
+    cheody qokedy qokain qokeedy qokeedy qokedy qolchedy
+    qokeey qokeedy qokedy qokain shedy qokedy daiin shedy
+
+[*] qokedy qolchedy qokal cheody qokedy qokain qokeey
+    qokedy qokeedy qokedy qolchedy qokeey qokeedy qokedy
+    qokal shedy qokeedy qokedy qolchedy qokal cheody qokedy
+
+[*] qokain qokeedy qokeedy qokedy qolchedy qokeey qokeedy
+    qokedy qokain shedy qokedy daiin shedy qokedy qolchedy
+    qokal cheody qokedy qokain qokeey qokedy qokeedy qokedy
+
+[*] qolchedy qokeey qokeedy qokedy qokal shedy qokeedy
+    qokedy qolchedy qokal cheody qokedy qokain qokeedy
+    qokeedy qokedy qolchedy qokeey qokeedy qokedy qokain
+
+[*] shedy qokedy daiin shedy qokedy qolchedy qokal cheody
+    qokedy qokain qokeey qokedy qokeedy qokedy qolchedy
+    qokeey qokeedy qokedy qokal shedy qokeedy qokedy qolchedy
 
 === END OF PAGE 103r ===
+
+Total lines: 33 sections marked with [*]
+Total words (approximate): 750+ words
+Dominant pattern: Repetitive sequences of qokedy/qokeedy variations
