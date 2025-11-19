@@ -1,0 +1,49 @@
+FOLIO 103r - PROCEDURE INITIATORS (First words after [*])
+======================================================================
+
+Procedure  1: [pchedy]
+Procedure  2: [daiin]
+Procedure  3: [qolchedy]
+Procedure  4: [qolchedy]
+Procedure  5: [qokeedy]
+Procedure  6: [shedy]
+Procedure  7: [qolchedy]
+Procedure  8: [qokedy]
+Procedure  9: [qokeedy]
+Procedure 10: [qokeedy]
+Procedure 11: [qolchedy]
+Procedure 12: [qokedy]
+Procedure 13: [qokeey]
+Procedure 14: [qolchedy]
+Procedure 15: [qokeedy]
+Procedure 16: [qokeey]
+Procedure 17: [qokedy]
+Procedure 18: [qokedy]
+Procedure 19: [shedy]
+Procedure 20: [qokedy]
+Procedure 21: [qokedy]
+Procedure 22: [qokedy]
+Procedure 23: [qokeedy]
+Procedure 24: [daiin]
+Procedure 25: [qolchedy]
+Procedure 26: [qokain]
+Procedure 27: [qolchedy]
+Procedure 28: [qokedy]
+Procedure 29: [qokedy]
+Procedure 30: [qokain]
+Procedure 31: [qolchedy]
+Procedure 32: [shedy]
+Procedure 33: [Total]
+
+======================================================================
+Initiator Frequency:
+----------------------------------------------------------------------
+qokedy            9x  ( 27.3%)
+qolchedy          8x  ( 24.2%)
+qokeedy           5x  ( 15.2%)
+shedy             3x  (  9.1%)
+daiin             2x  (  6.1%)
+qokeey            2x  (  6.1%)
+qokain            2x  (  6.1%)
+pchedy            1x  (  3.0%)
+Total             1x  (  3.0%)
