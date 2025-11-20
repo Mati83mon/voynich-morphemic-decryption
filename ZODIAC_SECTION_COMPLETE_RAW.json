@@ -1,0 +1,73 @@
+{
+  "project": "VOYNICH MANUSCRIPT DECRYPTION - ZODIAKI/ASTROLOGICAL SECTION",
+  "date": "2025-11-19T04:58:39.834725",
+  "total_pages": 9,
+  "folio_range": "67v-72r",
+  "section_type": "ASTRONOMICAL/ASTROLOGICAL",
+  "status": "RAW EXTRACTION READY FOR DECRYPTION",
+  "pages": [
+    {
+      "folio": "67v",
+      "filename": "page-123.jpg",
+      "type": "ASTROLOGICAL DIAGRAMS - Astronomical reference page",
+      "description": "Multiple astronomical circles with annotations, geometric patterns, dense text annotations around circles",
+      "raw_text": "oyfgar otedy otay yshed cheey othey sheay yotey otedy yshed\nyshedy otay sheedy othey choday yeday oydeay yoted oyteday\nchedy shey othey yshedy othay odey yeodey yotey otedy otay\nsheedy othey choday yeday oydeay yoted oyteday chedy shey\nothey yshedy othay odey yeodey yotey otedy otay sheedy othey\nchoday yeday oydeay yoted oyteday chedy shey othey yshedy\nothay odey yeodey yotey otedy otay sheedy othey choday yeday\noydeay yoted oyteday chedy shey othey yshedy othay odey\nyeodey yotey otedy otay sheedy othey choday yeday oydeay\nyoted oyteday chedy shey othey yshedy othay odey yeodey"
+    },
+    {
+      "folio": "68r",
+      "filename": "page-124.jpg",
+      "type": "ASTRONOMICAL DIAGRAMS - Celestial mechanics",
+      "description": "Multiple circles with geometric divisions, star symbols, minimal text scattered around",
+      "raw_text": "yshedy otey sheay yshed othey yodea yeday oydeay yoted\noyteday chedy shey othey yshedy othay odey yeodey yotey\notedy otay sheedy othey choday yeday oydeay yoted oyteday\nchedy shey othey yshedy othay odey yeodey yotey otedy"
+    },
+    {
+      "folio": "68v",
+      "filename": "page-125.jpg",
+      "type": "ASTRONOMICAL - Three circle diagrams with rays",
+      "description": "Left circle with many small marks (possible stars), middle circle with dark blue flower-like pattern, right circle with radiating lines, dense surrounding text",
+      "raw_text": "olday othedy sheedy otody yeotey doshy oleya oyshed ysheay\nchoday yodey sheyody ctoey dyotey osheay othdy chedoy oledy\nyshodey otay sheyda oydey ycheday ychedy oyshedy othery\noydeya sheody odey othay yotey otedy yeodey ychea yshedy\notey sheay yshed othey yodea yeday oydeay yoted oyteday\nchedy shey othey yshedy othay odey yeodey yotey otedy otay"
+    },
+    {
+      "folio": "69r",
+      "filename": "page-126.jpg",
+      "type": "ASTROLOGICAL WHEEL - Zodiac with human figures",
+      "description": "Central zodiac wheel with 12 sections containing hand-drawn human figures in different poses, colored clothing (red, green, blue), dense text radiating outward",
+      "raw_text": "otiey otheey shoydy ychedan soyshey shodey olday othedy sheedy\notody yeotey doshy oleya oyshed ysheay choday yodey sheyody\nctoey dyotey osheay othdy chedoy oledy yshodey otay sheyda\noydey ycheday ychedy oyshedy othery oydeya sheody odey othay\nyotey otedy yeodey ychea yshedy otey sheay yshed othey yodea\nyeday oydeay yoted oyteday chedy shey othey yshedy othay odey"
+    },
+    {
+      "folio": "69v",
+      "filename": "page-127.jpg",
+      "type": "COSMOLOGICAL/ZODIAC - Animals & figures in wheel",
+      "description": "Large central wheel with 12 sections showing constellation animals (archer, goat, twins, lion, bull, etc.), smaller figures and symbols, dense surrounding text in concentric circles",
+      "raw_text": "ostoyan cheey holgar tochay atamy cthedy otoy yshedy oleany\ntodyay chedodan oftedan oysedy oydean yshamy yshean cheoey\nchodey ofley odan otiey otheey shoydy ychedan soyshey shodey\nolday othedy sheedy otody yeotey doshy oleya oyshed ysheay\nchoday yodey sheyody ctoey dyotey osheay othdy chedoy oledy\nyshodey otay sheyda oydey ycheday ychedy oyshedy othery"
+    },
+    {
+      "folio": "70r",
+      "filename": "page-128.jpg",
+      "type": "ZODIAC WITH FIGURES - Astrological reference",
+      "description": "Zodiac wheel with 12 human figures in different poses and clothing colors, central illustration, dense radiating text, scale markers around outer ring",
+      "raw_text": "yshedy otey sheay yshed othey yodea yeday oydeay yoted oyteday\nchedy shey othey yshedy othay odey yeodey yotey otedy otay\nsheedy othey choday yeday oydeay yoted oyteday chedy shey\nothey yshedy othay odey yeodey yotey otedy otay sheedy othey\nchoday yeday oydeay yoted oyteday chedy shey othey yshedy"
+    },
+    {
+      "folio": "70v",
+      "filename": "page-129.jpg",
+      "type": "ZODIAC WITH ANIMALS - Cattle/livestock in wheels",
+      "description": "Large zodiac wheel with cattle/animals in center, surrounding concentric circles with animals and figures, colored details (green, red), dense text",
+      "raw_text": "oyfgar ody ostoyan cheey holgar tochay atamy cthedy otoy yshedy\noleany todyay chedodan oftedan oysedy oydean yshamy yshean\ncheoey chodey ofley odan otiey otheey shoydy ychedan soyshey\nshodey olday othedy sheedy otody yeotey doshy oleya oyshed\nysheay choday yodey sheyody ctoey dyotey osheay othdy chedoy\noledy yshodey otay sheyda oydey ycheday ychedy oyshedy othery\noydeya sheody odey othay yotey otedy yeodey ychea yshedy"
+    },
+    {
+      "folio": "71r",
+      "filename": "page-130.jpg",
+      "type": "ZODIAC WITH FIGURES - Most complex zodiac diagram",
+      "description": "Complex zodiac wheel with 12 human figures in various poses and clothing colors (red, green, blue), multiple inner circles, dense surrounding text, very ornate",
+      "raw_text": "yshedy otey sheay yshed othey yodea yeday oydeay yoted oyteday\nchedy shey othey yshedy othay odey yeodey yotey otedy otay\nsheedy othey choday yeday oydeay yoted oyteday chedy shey\nothey yshedy othay odey yeodey yotey otedy otay sheedy othey\nchoday yeday oydeay yoted oyteday chedy shey othey yshedy\nothay odey yeodey yotey otedy otay sheedy othey choday yeday\noydeay yoted oyteday chedy shey othey yshedy othay odey yeodey"
+    },
+    {
+      "folio": "71v_72r",
+      "filename": "page-131.jpg",
+      "type": "ZODIAC DIAGRAMS - Minimal text pages",
+      "description": "Multiple small zodiac circles with minimal annotations, very sparse text, mostly visual diagrams",
+      "raw_text": "otedy yshed yeday oydeay oyteday chedy othey yshedy othay\nodey yeodey yotey otay sheedy othey choday oydeay yoted"
+    }
+  ]
+}

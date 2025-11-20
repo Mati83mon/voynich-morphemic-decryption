@@ -1,0 +1,49 @@
+VOYNICH MANUSCRIPT - FOLIO 103r - PEŁNE TŁUMACZENIE
+======================================================================
+
+POKRYCIE: 70.48% (wszystkie słowa), 50.00% (unikalne słowa)
+Słowa przetłumaczone: 160/227
+Słownik: VOYNICH_UNIFIED_CLEAN_COMPLETE.json (379 wpisów)
+======================================================================
+
+[1] [pchedy] quomodo [cheody] quomodo facere quomodo facere [qolchey] quod coquere [qokaiin] sic quomodo facere
+[2] datis sic quomodo facere quod coquere quomodo [cheody] quomodo facere quomodo [qokeey] quomodo facere
+[3] quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic quomodo facere datis sic
+[4] quod coquere quomodo [cheody] quomodo facere quomodo [qokeedy] [qokeedy] quomodo facere
+[5] [qokeedy] quomodo facere quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic
+[6] sic quomodo facere datis sic quomodo facere quod coquere quomodo [cheody]
+[7] quod coquere quomodo [cheody] quomodo facere quomodo [qokeedy] [qokeedy]
+[8] quomodo facere quomodo [qokeey] quomodo facere [qokeedy] quomodo facere quod coquere
+[9] [qokeedy] quomodo facere quod coquere [qokeey] [qokeedy] quomodo facere
+[10] [qokeedy] quomodo facere quod coquere [qokeey] [qokeedy] quomodo facere
+[11] quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic
+[12] quomodo facere quod coquere [qokeey] [qokeedy] quomodo facere quomodo
+[13] [qokeey] [qokeedy] quomodo facere quomodo sic quomodo facere
+[14] quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic
+[15] [qokeedy] quomodo facere quomodo sic quomodo facere datis
+[16] [qokeey] [qokeedy] quomodo facere quomodo sic [qokeedy]
+[17] quomodo facere quomodo sic quomodo facere datis sic quomodo facere
+[18] quomodo facere quomodo sic [qokeedy] quomodo facere quod coquere
+[19] sic quomodo facere datis sic quomodo facere quod coquere quomodo
+[20] quomodo facere quod coquere quomodo [cheody] quomodo facere quomodo [qokeedy]
+[21] quomodo facere quomodo [qokeey] quomodo facere [qokeedy] quomodo facere quod coquere
+[22] quomodo facere quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic
+[23] [qokeedy] quomodo facere quomodo sic [qokeedy] quomodo facere quod coquere
+[24] datis sic quomodo facere quod coquere quomodo [cheody] quomodo facere
+[25] quod coquere quomodo [cheody] quomodo facere quomodo [qokeedy] [qokeedy]
+[26] quomodo [qokeey] quomodo facere [qokeedy] quomodo facere quod coquere [qokeey]
+[27] quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic quomodo facere
+[28] quomodo facere quomodo sic [qokeedy] quomodo facere quod coquere quomodo
+[29] quomodo facere quod coquere quomodo [cheody] quomodo facere quomodo [qokeey]
+[30] quomodo [qokeedy] [qokeedy] quomodo facere quod coquere [qokeey] [qokeedy]
+[31] quod coquere [qokeey] [qokeedy] quomodo facere quomodo sic [qokeedy]
+[32] sic quomodo facere datis sic quomodo facere quod coquere quomodo [cheody]
+
+
+❌ NIEPRZEŁOŻONE SŁOWA (6):
+   qokeedy: 35x
+   qokeey: 19x
+   cheody: 10x
+   pchedy: 1x
+   qolchey: 1x
+   qokaiin: 1x

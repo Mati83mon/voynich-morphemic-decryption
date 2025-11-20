@@ -1,0 +1,380 @@
+{
+  "section": "ASTRONOMICAL/ASTROLOGICAL",
+  "folio_range": "67v-72r",
+  "total_pages": 9,
+  "per_folio": [
+    {
+      "folio": "67v",
+      "type": "ASTROLOGICAL DIAGRAMS - Astronomical reference page",
+      "total_tokens": 94,
+      "total_yshedy": 8,
+      "percentage": 8.51063829787234,
+      "variants": {
+        "yshedy": 6,
+        "yshed": 2
+      },
+      "contexts": [
+        {
+          "token": "yshed",
+          "full": "oyfgar otedy otay **yshed** cheey othey sheay"
+        },
+        {
+          "token": "yshed",
+          "full": "sheay yotey otedy **yshed** yshedy otay sheedy"
+        },
+        {
+          "token": "yshedy",
+          "full": "yotey otedy yshed **yshedy** otay sheedy othey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        }
+      ]
+    },
+    {
+      "folio": "68r",
+      "type": "ASTRONOMICAL DIAGRAMS - Celestial mechanics",
+      "total_tokens": 36,
+      "total_yshedy": 4,
+      "percentage": 11.11111111111111,
+      "variants": {
+        "yshedy": 3,
+        "yshed": 1
+      },
+      "contexts": [
+        {
+          "token": "yshedy",
+          "full": "**yshedy** otey sheay yshed"
+        },
+        {
+          "token": "yshed",
+          "full": "yshedy otey sheay **yshed** othey yodea yeday"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        }
+      ]
+    },
+    {
+      "folio": "68v",
+      "type": "ASTRONOMICAL - Three circle diagrams with rays",
+      "total_tokens": 54,
+      "total_yshedy": 7,
+      "percentage": 12.962962962962962,
+      "variants": {
+        "yshedy": 2,
+        "yshed": 1,
+        "ysheay": 1,
+        "yshodey": 1,
+        "oyshedy": 1,
+        "oyshed": 1
+      },
+      "contexts": [
+        {
+          "token": "oyshed",
+          "full": "yeotey doshy oleya **oyshed** ysheay choday yodey"
+        },
+        {
+          "token": "ysheay",
+          "full": "doshy oleya oyshed **ysheay** choday yodey sheyody"
+        },
+        {
+          "token": "yshodey",
+          "full": "othdy chedoy oledy **yshodey** otay sheyda oydey"
+        },
+        {
+          "token": "oyshedy",
+          "full": "oydey ycheday ychedy **oyshedy** othery oydeya sheody"
+        },
+        {
+          "token": "yshedy",
+          "full": "otedy yeodey ychea **yshedy** otey sheay yshed"
+        },
+        {
+          "token": "yshed",
+          "full": "yshedy otey sheay **yshed** othey yodea yeday"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        }
+      ]
+    },
+    {
+      "folio": "69r",
+      "type": "ASTROLOGICAL WHEEL - Zodiac with human figures",
+      "total_tokens": 56,
+      "total_yshedy": 7,
+      "percentage": 12.5,
+      "variants": {
+        "yshedy": 2,
+        "yshed": 1,
+        "ysheay": 1,
+        "yshodey": 1,
+        "oyshedy": 1,
+        "oyshed": 1
+      },
+      "contexts": [
+        {
+          "token": "oyshed",
+          "full": "yeotey doshy oleya **oyshed** ysheay choday yodey"
+        },
+        {
+          "token": "ysheay",
+          "full": "doshy oleya oyshed **ysheay** choday yodey sheyody"
+        },
+        {
+          "token": "yshodey",
+          "full": "othdy chedoy oledy **yshodey** otay sheyda oydey"
+        },
+        {
+          "token": "oyshedy",
+          "full": "oydey ycheday ychedy **oyshedy** othery oydeya sheody"
+        },
+        {
+          "token": "yshedy",
+          "full": "otedy yeodey ychea **yshedy** otey sheay yshed"
+        },
+        {
+          "token": "yshed",
+          "full": "yshedy otey sheay **yshed** othey yodea yeday"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey"
+        }
+      ]
+    },
+    {
+      "folio": "69v",
+      "type": "COSMOLOGICAL/ZODIAC - Animals & figures in wheel",
+      "total_tokens": 52,
+      "total_yshedy": 7,
+      "percentage": 13.461538461538462,
+      "variants": {
+        "yshedy": 1,
+        "ysheay": 1,
+        "yshodey": 1,
+        "oyshedy": 1,
+        "oyshed": 1,
+        "yshamy": 1,
+        "yshean": 1
+      },
+      "contexts": [
+        {
+          "token": "yshedy",
+          "full": "atamy cthedy otoy **yshedy** oleany todyay chedodan"
+        },
+        {
+          "token": "yshamy",
+          "full": "oftedan oysedy oydean **yshamy** yshean cheoey chodey"
+        },
+        {
+          "token": "yshean",
+          "full": "oysedy oydean yshamy **yshean** cheoey chodey ofley"
+        },
+        {
+          "token": "oyshed",
+          "full": "yeotey doshy oleya **oyshed** ysheay choday yodey"
+        },
+        {
+          "token": "ysheay",
+          "full": "doshy oleya oyshed **ysheay** choday yodey sheyody"
+        },
+        {
+          "token": "yshodey",
+          "full": "othdy chedoy oledy **yshodey** otay sheyda oydey"
+        },
+        {
+          "token": "oyshedy",
+          "full": "oydey ycheday ychedy **oyshedy** othery"
+        }
+      ]
+    },
+    {
+      "folio": "70r",
+      "type": "ZODIAC WITH FIGURES - Astrological reference",
+      "total_tokens": 48,
+      "total_yshedy": 5,
+      "percentage": 10.416666666666668,
+      "variants": {
+        "yshedy": 4,
+        "yshed": 1
+      },
+      "contexts": [
+        {
+          "token": "yshedy",
+          "full": "**yshedy** otey sheay yshed"
+        },
+        {
+          "token": "yshed",
+          "full": "yshedy otey sheay **yshed** othey yodea yeday"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy**"
+        }
+      ]
+    },
+    {
+      "folio": "70v",
+      "type": "ZODIAC WITH ANIMALS - Cattle/livestock in wheels",
+      "total_tokens": 63,
+      "total_yshedy": 8,
+      "percentage": 12.698412698412698,
+      "variants": {
+        "yshedy": 2,
+        "ysheay": 1,
+        "yshodey": 1,
+        "oyshedy": 1,
+        "oyshed": 1,
+        "yshamy": 1,
+        "yshean": 1
+      },
+      "contexts": [
+        {
+          "token": "yshedy",
+          "full": "atamy cthedy otoy **yshedy** oleany todyay chedodan"
+        },
+        {
+          "token": "yshamy",
+          "full": "oftedan oysedy oydean **yshamy** yshean cheoey chodey"
+        },
+        {
+          "token": "yshean",
+          "full": "oysedy oydean yshamy **yshean** cheoey chodey ofley"
+        },
+        {
+          "token": "oyshed",
+          "full": "yeotey doshy oleya **oyshed** ysheay choday yodey"
+        },
+        {
+          "token": "ysheay",
+          "full": "doshy oleya oyshed **ysheay** choday yodey sheyody"
+        },
+        {
+          "token": "yshodey",
+          "full": "othdy chedoy oledy **yshodey** otay sheyda oydey"
+        },
+        {
+          "token": "oyshedy",
+          "full": "oydey ycheday ychedy **oyshedy** othery oydeya sheody"
+        },
+        {
+          "token": "yshedy",
+          "full": "otedy yeodey ychea **yshedy**"
+        }
+      ]
+    },
+    {
+      "folio": "71r",
+      "type": "ZODIAC WITH FIGURES - Most complex zodiac diagram",
+      "total_tokens": 68,
+      "total_yshedy": 6,
+      "percentage": 8.823529411764707,
+      "variants": {
+        "yshedy": 5,
+        "yshed": 1
+      },
+      "contexts": [
+        {
+          "token": "yshedy",
+          "full": "**yshedy** otey sheay yshed"
+        },
+        {
+          "token": "yshed",
+          "full": "yshedy otey sheay **yshed** othey yodea yeday"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        },
+        {
+          "token": "yshedy",
+          "full": "chedy shey othey **yshedy** othay odey yeodey"
+        }
+      ]
+    },
+    {
+      "folio": "71v_72r",
+      "type": "ZODIAC DIAGRAMS - Minimal text pages",
+      "total_tokens": 18,
+      "total_yshedy": 2,
+      "percentage": 11.11111111111111,
+      "variants": {
+        "yshedy": 1,
+        "yshed": 1
+      },
+      "contexts": [
+        {
+          "token": "yshed",
+          "full": "otedy **yshed** yeday oydeay oyteday"
+        },
+        {
+          "token": "yshedy",
+          "full": "oyteday chedy othey **yshedy** othay odey yeodey"
+        }
+      ]
+    }
+  ],
+  "top_cooccurrences": {
+    "othey": 24,
+    "yeodey": 18,
+    "chedy": 17,
+    "shey": 16,
+    "othay": 16,
+    "odey": 16,
+    "sheay": 12,
+    "otey": 10,
+    "doshy": 8,
+    "oleya": 8,
+    "choday": 8,
+    "yodey": 8,
+    "oydey": 8,
+    "otedy": 7,
+    "otay": 7,
+    "yshedy": 6,
+    "yshed": 6,
+    "yeday": 6,
+    "yodea": 5,
+    "yeotey": 4
+  }
+}

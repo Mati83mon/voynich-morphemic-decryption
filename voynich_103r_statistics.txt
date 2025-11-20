@@ -1,0 +1,33 @@
+VOYNICH MANUSCRIPT - PAGE 103r - WORD STATISTICS
+======================================================================
+
+Total Voynich words: 681
+Unique words: 13
+
+Complete Word Frequency Table:
+----------------------------------------------------------------------
+Rank  Word           Count   %       Translation
+----------------------------------------------------------------------
+1     qokedy         194      28.5%  quomodo facere
+2     qokeedy        116      17.0%  [unknown]
+3     qolchedy       78       11.5%  quod coquere
+4     qokal          58        8.5%  quomodo
+5     shedy          58        8.5%  sic
+6     qokain         57        8.4%  quomodo
+7     qokeey         57        8.4%  [unknown]
+8     cheody         39        5.7%  [unknown]
+9     daiin          20        2.9%  datis
+10    pchedy         1         0.1%  [unknown]
+11    qolchey        1         0.1%  [unknown]
+12    qokaiin        1         0.1%  [unknown]
+13    cthy           1         0.1%  [unknown]
+
+======================================================================
+Coverage Analysis:
+----------------------------------------------------------------------
+
+Words with dictionary mapping: 465/681 (68.3%)
+Words without mapping: 216/681 (31.7%)
+
+======================================================================
+Top 5 words represent 74.0% of entire text

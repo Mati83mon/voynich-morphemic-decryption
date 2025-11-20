@@ -1,0 +1,401 @@
+{
+  "variants": {
+    "yshedy": [
+      {
+        "context": "yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dain.qokchedy.ralom",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qokeedy.qokchdy.olkeedy.otey.koldy",
+        "count": 1
+      },
+      {
+        "context": "yshedy.chekar.oldy.qokain.chkar.otar.oldy",
+        "count": 1
+      },
+      {
+        "context": "tol.or.sheey.chckhdy.schckhy.dal.yshedy.otedy.qol.or.ol.eedy.qokeey.oroly",
+        "count": 1
+      },
+      {
+        "context": "otor.yshedy.otedy.shedy.qokeedy.qokedy.otar.otedy",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qokeey.okain.olkeey.daldy.chedy.raiin.orain",
+        "count": 1
+      },
+      {
+        "context": "yshedy.chdaiin.otedy.sdal.tam.dy<->eedy.qokeey.tam",
+        "count": 1
+      }
+    ],
+    "ysheey": [
+      {
+        "context": "ysheey.rar.akain.char.lkeey.roiir.shey.cheey.kas.ar.lkchs.ar.y.rais.alod",
+        "count": 1
+      },
+      {
+        "context": "ysheey.okeshy.shodypshey.todydy<$>",
+        "count": 1
+      },
+      {
+        "context": "ysheey.ol.shey.oltshsey.sheepshey<$>",
+        "count": 1
+      },
+      {
+        "context": "ysheey.qoteey.lkeey.raiin.cheo.lor.otal.otchedy<$>",
+        "count": 1
+      },
+      {
+        "context": "ysheey.ckhol.chckhey.daiin.ctheody.ydy",
+        "count": 1
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "count": 1
+      },
+      {
+        "context": "ysheey.qoeey.or.aiiin.okeeol.otain.ar.al.okaiiin.aiin.shody.otcham",
+        "count": 1
+      },
+      {
+        "context": "ysheey.qotaiin.chdy.ypsheor.ytain.otain.ytam",
+        "count": 1
+      },
+      {
+        "context": "ysheey.dal.saiirol.sal.dalo.tain.dary.dalo",
+        "count": 1
+      },
+      {
+        "context": "ysheey.qorar.ol.cheey.daiin.shey.qokaiin.ol.okaiin",
+        "count": 1
+      }
+    ]
+  },
+  "cooccurrences": {
+    "ol": 5,
+    "qokeey": 4,
+    "otedy": 4,
+    "daiin": 3,
+    "qokeedy": 3,
+    "otain": 3,
+    "or": 3,
+    "shey": 3,
+    "ar": 3,
+    "chedy": 2,
+    "olkeedy": 2,
+    "qotal": 2,
+    "olor<$>": 2,
+    "oldy": 2,
+    "otar": 2,
+    "dal": 2,
+    "raiin": 2,
+    "tam": 2,
+    "lkeey": 2,
+    "cheey": 2
+  },
+  "positions": {
+    "start": 18,
+    "middle": 2,
+    "end": 0
+  },
+  "y_bracket_examples": [
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dain.qokchedy.ralom",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qotal.ysheey.olor<$>",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qokeedy.qokchdy.olkeedy.otey.koldy",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.chekar.oldy.qokain.chkar.otar.oldy",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "tol.or.sheey.chckhdy.schckhy.dal.yshedy.otedy.qol.or.ol.eedy.qokeey.oroly",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "otor.yshedy.otedy.shedy.qokeedy.qokedy.otar.otedy",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.qokeey.okain.olkeey.daldy.chedy.raiin.orain",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    },
+    {
+      "variant": "yshedy",
+      "structure": "Y-SHED-Y",
+      "context": "yshedy.chdaiin.otedy.sdal.tam.dy<->eedy.qokeey.tam",
+      "interpretation": "[PROCEDURAL]-PREPARATION-[MARKER]"
+    }
+  ],
+  "etymological_evidence": {
+    "medieval_latin": [
+      {
+        "context": "yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dain.qokchedy.ralom",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qokeedy.qokchdy.olkeedy.otey.koldy",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.chekar.oldy.qokain.chkar.otar.oldy",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "tol.or.sheey.chckhdy.schckhy.dal.yshedy.otedy.qol.or.ol.eedy.qokeey.oroly",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "otor.yshedy.otedy.shedy.qokeedy.qokedy.otar.otedy",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.chdaiin.otedy.sdal.tam.dy<->eedy.qokeey.tam",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "ysheey.qoteey.lkeey.raiin.cheo.lor.otal.otchedy<$>",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "ysheey.qoeey.or.aiiin.okeeol.otain.ar.al.okaiiin.aiin.shody.otcham",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      },
+      {
+        "context": "ysheey.qotaiin.chdy.ypsheor.ytain.otain.ytam",
+        "pattern": "YS- with OT- (USUS pattern)",
+        "strength": "high"
+      }
+    ],
+    "czech_bohemian": [
+      {
+        "context": "yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dain.qokchedy.ralom",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qokeedy.qokchdy.olkeedy.otey.koldy",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.chekar.oldy.qokain.chkar.otar.oldy",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "tol.or.sheey.chckhdy.schckhy.dal.yshedy.otedy.qol.or.ol.eedy.qokeey.oroly",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "otor.yshedy.otedy.shedy.qokeedy.qokedy.otar.otedy",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qokeey.okain.olkeey.daldy.chedy.raiin.orain",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.chdaiin.otedy.sdal.tam.dy<->eedy.qokeey.tam",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.rar.akain.char.lkeey.roiir.shey.cheey.kas.ar.lkchs.ar.y.rais.alod",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.okeshy.shodypshey.todydy<$>",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.ol.shey.oltshsey.sheepshey<$>",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.qoteey.lkeey.raiin.cheo.lor.otal.otchedy<$>",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.ckhol.chckhey.daiin.ctheody.ydy",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.qoeey.or.aiiin.okeeol.otain.ar.al.okaiiin.aiin.shody.otcham",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.qotaiin.chdy.ypsheor.ytain.otain.ytam",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.dal.saiirol.sal.dalo.tain.dary.dalo",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      },
+      {
+        "context": "ysheey.qorar.ol.cheey.daiin.shey.qokaiin.ol.okaiin",
+        "pattern": "-dy action suffix",
+        "strength": "medium"
+      }
+    ],
+    "hebrew": [],
+    "venetian_italian": [
+      {
+        "context": "yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dain.qokchedy.ralom",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qotal.ysheey.olor<$>",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qokeedy.qokchdy.olkeedy.otey.koldy",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.chekar.oldy.qokain.chkar.otar.oldy",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "tol.or.sheey.chckhdy.schckhy.dal.yshedy.otedy.qol.or.ol.eedy.qokeey.oroly",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "otor.yshedy.otedy.shedy.qokeedy.qokedy.otar.otedy",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.qokeey.okain.olkeey.daldy.chedy.raiin.orain",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      },
+      {
+        "context": "yshedy.chdaiin.otedy.sdal.tam.dy<->eedy.qokeey.tam",
+        "pattern": "SCHIEDA → SHED cognate",
+        "strength": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+VOYNICH MANUSCRIPT - PAGE 103r - MAPPED TRANSLATION
+Using morphemic dictionary - Latin translations
+Image ID: 1006254
+Date: 2025-11-19
+
+=== DICTIONARY MAPPING ===
+
+Legend:
+[?] = word not found in dictionary
+Words are mapped to Latin equivalents where available
+
+=== MAPPED TEXT ===
+
+[*] [pchedy?] quomodo [cheody?] quomodo_facere quomodo_facere [qolchey?] quod_coquere [qokaiin?] sic quomodo_facere
+    datis [cthy?] [qokeedy?] quomodo_facere [qokeedy?] quod_coquere quomodo [cheody?] quomodo_facere quomodo
+    [qokeedy?] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere
+
+[*] datis sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere
+    [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?]
+    quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere
+
+[*] quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere datis sic
+    quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?]
+    quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere
+
+[*] quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere
+    quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere datis sic
+    quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere
+
+[*] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    [qokeedy?] quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?]
+    [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo
+
+[*] sic quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?]
+    quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere
+
+[*] quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?]
+    quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?]
+
+[*] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere
+    quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?]
+
+[*] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere
+    quomodo sic quomodo_facere datis sic quomodo_facere quod_coquere
+    quomodo [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere
+
+[*] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere
+    quomodo sic [qokeedy?] quomodo_facere quod_coquere quomodo
+    [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere
+
+[*] quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    quomodo_facere datis sic quomodo_facere quod_coquere quomodo
+    [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?]
+
+[*] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo
+    sic [qokeedy?] quomodo_facere quod_coquere quomodo [cheody?]
+    quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere quod_coquere
+
+[*] [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere
+    datis sic quomodo_facere quod_coquere quomodo [cheody?]
+    quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere
+
+[*] quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    [qokeedy?] quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+    quomodo [qokeedy?] [qokeedy?] quomodo_facere quod_coquere [qokeey?]
+
+[*] [qokeedy?] quomodo_facere quomodo sic quomodo_facere datis
+    sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+    quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+
+[*] [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?]
+    quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo
+    [qokeedy?] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?]
+
+[*] quomodo_facere quomodo sic quomodo_facere datis sic quomodo_facere
+    quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeey?]
+    quomodo_facere [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?]
+
+[*] quomodo_facere quomodo sic [qokeedy?] quomodo_facere quod_coquere
+    quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?]
+    quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo
+
+[*] sic quomodo_facere datis sic quomodo_facere quod_coquere quomodo
+    [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere
+    quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?]
+
+[*] quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?]
+    [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo
+    sic quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?]
+
+[*] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere
+    quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?]
+
+[*] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+    quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere [qokeey?]
+
+[*] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere quod_coquere
+    quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere
+    quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere
+
+[*] datis sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+    quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere
+
+[*] quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?]
+    quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic
+    quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+
+[*] quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere [qokeey?]
+    [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere quod_coquere
+    quomodo [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere
+
+[*] quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere
+    datis sic quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo
+    [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?]
+
+[*] quomodo_facere quomodo sic [qokeedy?] quomodo_facere quod_coquere quomodo
+    [cheody?] quomodo_facere quomodo [qokeedy?] [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic quomodo_facere datis sic
+
+[*] quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeey?]
+    quomodo_facere [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere
+    quomodo sic [qokeedy?] quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere
+
+[*] quomodo [qokeedy?] [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?]
+    quomodo_facere quomodo sic quomodo_facere datis sic quomodo_facere quod_coquere
+    quomodo [cheody?] quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere
+
+[*] quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?]
+    quomodo_facere quod_coquere quomodo [cheody?] quomodo_facere quomodo [qokeedy?]
+    [qokeedy?] quomodo_facere quod_coquere [qokeey?] [qokeedy?] quomodo_facere quomodo
+
+[*] sic quomodo_facere datis sic quomodo_facere quod_coquere quomodo [cheody?]
+    quomodo_facere quomodo [qokeey?] quomodo_facere [qokeedy?] quomodo_facere quod_coquere
+    [qokeey?] [qokeedy?] quomodo_facere quomodo sic [qokeedy?] quomodo_facere quod_coquere
+
+=== VOCABULARY ANALYSIS ===
+
+Mapped words (from dictionary):
+- qokal → quomodo (how/in what manner)
+- qokedy → quomodo facere (how to do/make)
+- qolchedy → quod coquere (that/which to cook)
+- shedy → sic (thus/so)
+- daiin → datis (given/with given things)
+
+Unmapped words (not in dictionary):
+- pchedy [appears 1x] - possibly variant of chedy?
+- cheody [appears ~33x] - possibly related to chedy (coquere)?
+- qokeedy [appears ~100+x] - variant of qokedy?
+- qolchey [appears 1x] - variant of qolchedy?
+- qokaiin [appears 1x] - variant with -aiin suffix?
+- cthy [appears 1x] - unknown
+- qokain [appears ~33x] - similar to qokain in dict (quomodo)
+- qokeey [appears ~66x] - variant form?
+
+=== SEMANTIC INTERPRETATION ===
+
+The text appears to be a highly repetitive set of instructions, possibly a recipe or procedural text.
+
+Recurring pattern:
+"quomodo facere quod coquere quomodo [cheody?] quomodo facere..."
+= "how to do/make that which cooks how [to cook?] how to do..."
+
+With periodic markers:
+"sic quomodo facere datis sic..."
+= "thus/so to do with given things thus..."
+
+This suggests iterative cooking or preparation instructions with variations.
+
+=== END OF MAPPED TRANSLATION ===

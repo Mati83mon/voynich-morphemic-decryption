@@ -1,0 +1,98 @@
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║              FOLIO 67v - YSHEDY IN ASTROLOGICAL CONTEXT                    ║
+║                    ASTRONOMICAL DIAGRAMS ANALYSIS                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+📊 BASIC STATISTICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total tokens in folio:     94
+YSHED occurrences:         2
+YSHEDY occurrences:        6
+Total YSHED* variants:     8
+
+Percentage of folio:       8.5%
+
+🔍 ALL YSHEDY CONTEXTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. oyfgar otedy otay **yshed** cheey othey sheay
+2. sheay yotey otedy **yshed** yshedy otay sheedy
+3. yotey otedy yshed **yshedy** otay sheedy othey
+4. chedy shey othey **yshedy** othay odey yeodey
+5. chedy shey othey **yshedy** othay odey yeodey
+6. chedy shey othey **yshedy** othay odey yeodey
+7. chedy shey othey **yshedy** othay odey yeodey
+8. chedy shey othey **yshedy** othay odey yeodey
+
+🔗 TOP CO-OCCURRING TOKENS (within ±3 window)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+othey           →  7x
+chedy           →  5x
+shey            →  5x
+othay           →  5x
+odey            →  5x
+yeodey          →  5x
+otedy           →  3x
+otay            →  3x
+sheay           →  2x
+yotey           →  2x
+sheedy          →  2x
+oyfgar          →  1x
+cheey           →  1x
+yshedy          →  1x
+yshed           →  1x
+
+⚡ PATTERN ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+othey + yshedy       → 5x
+otedy + yshedy       → 3x
+yshedy + othey       → 2x
+yshedy + otay        → 2x
+
+🎯 INTERPRETATION: ASTRONOMICAL CONTEXT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Context:** Folio 67v contains ASTROLOGICAL DIAGRAMS with multiple circles
+            and dense annotations around geometric patterns.
+
+**YSHEDY in this context likely means:**
+  → "BEGIN OBSERVATION PROCEDURE"
+  → "PERFORM ASTRONOMICAL CALCULATION"
+  → "APPLY CELESTIAL MEASUREMENT"
+
+**Key differences from botanical context:**
+  ✓ In botany: YSHEDY = "begin preparation/cooking procedure"
+  ✓ In astronomy: YSHEDY = "begin observation/calculation procedure"
+
+**Universal meaning:**
+  → YSHEDY is a META-PROCEDURAL MARKER
+  → Works across ALL domains (botany, astronomy, etc.)
+  → Signals: "Begin following this instruction/procedure"
+
+**Co-occurrence with OTEDY:**
+  → OTEDY = "repeat/iterate" (24% of corpus)
+  → OTEDY + YSHEDY = "Repeat this procedure"
+  → Common in astronomical contexts (iterative observations!)
+
+📊 VARIANT ANALYSIS: YSHED vs YSHEDY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+YSHED (2x):  Shortened form - possibly:
+             • End-of-line truncation
+             • Abbreviated version (space constraints in diagrams)
+             • Phonetic reduction
+
+YSHEDY (6x): Full form with Y...Y bracket
+             • Complete procedural marker
+             • Structural bracket intact
+             • Standard morphological form
+
+Ratio: 75% full form (YSHEDY) vs 25% short form (YSHED)
+       → Suggests YSHEDY is the canonical form
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+End of Folio 67v Analysis
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
